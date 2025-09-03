@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${pageTitle}">Mercato</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2"></script>
+    <style>body{background:#f7f9fc}.card{border:none;border-radius:14px;box-shadow:0 8px 20px rgba(0,0,0,.06)}canvas{max-height:460px}</style>
+</head>
+<body>
+<div th:replace="~{fragments/nav :: navbar}"></div>
+
+<div class="container py-4">
+    <h2 class="mb-3" th:text="${pageTitle}">Mercato (Indice prezzi agricoli)</h2>
+
+    <div class="d-flex gap-2 mb-3">
+        <div class="input-group" style="width:360px">
+            <span class="input-group-text">Anni</span>
+            <input id="from" type="number" class="form-control" value="2010">
+            <input id="to"   type="number" class="form-control" value="2024">
+            <button id="apply" class="btn btn-primary">Applica</button>
+        </div>
+        <button id="reset" class="btn btn-outline-dark ms-auto">Reset zoom</button>
+        <button id="png" class="btn btn-outline-secondary">PNG</button>
+    </div>
+
+    <div class="card p-3">
+        <canvas id="chart"></canvas>
+    </div>
+</div>
+
+<script>
+    const nf = new Intl.NumberFormat('it-IT',{maximumFractionDigits:3});
+    let chart;
+    function mk(labels, data){
+        chart = new Chart(document.getElementById('chart'),{
+            type:'line',
+            data:{ labels, datasets:[{ label:'Indice', data, tension:.25, pointRadius:2 }] },
+            options:{ responsive:true, maintainAspectRatio:false,
+                plugins:{ zoom:{ zoom:{ wheel:{enabled:true}, pinch:{enabled:true}, mode:'x' }, pan:{enabled:true, mode:'x'} },
+                    tooltip:{ callbacks:{ label:i=>`Indice: ${nf.format(i.parsed.y)}` } } },
+                scales:{ y:{ grid:{color:'rgba(0,0,0,.08)'} }, x:{ ticks:{ maxRotation:0 } } }
+            }
+        });
+    }
+    async function load(f,t){
+        const r = await fetch(`/api/prezzi/tab01?yearFrom=${f}&yearTo=${t}`);
+        if(!r.ok) return alert('Errore caricando prezzi: '+r.status);
+        const j = await r.json();
+        if(!chart) mk(j.labels, j.values || []);
+        else { chart.data.labels=j.labels; chart.data.datasets[0].data=j.values||[]; chart.update(); }
+    }
+    document.getElementById('apply').onclick = ()=>load(+from.value,+to.value);
+    document.getElementById('reset').onclick = ()=>chart && chart.resetZoom();
+    document.getElementById('png').onclick   = ()=>{ const a=document.createElement('a'); a.href=chart.toBase64Image(); a.download='prezzi.png'; a.click(); };
+
+    load(2010,2024);
+</script>
+</body>
+</html>

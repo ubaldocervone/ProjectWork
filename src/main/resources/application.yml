@@ -1,0 +1,6 @@
+server:
+    port: 8080
+
+data:
+    meteo: "classpath:meteo.csv"     # cambia se serve
+    prezzi: "classpath:prezzi.csv"   # cambia se serve

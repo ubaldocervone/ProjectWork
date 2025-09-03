@@ -1,0 +1,3269 @@
+﻿SottoTitolo2,SottoTitolo3
+Periodo riferimento: 2024 - Base dell’Indice 2010=100,"Macro categoria: coltivazioni,prodotti zootecnici - Categoria: cereali e derivati,colture industriali,frutta fresca, a guscio e agrumi freschi,olii e grassi vegetali,ortaggi legumi e patate freschi,semi oleosi,vini - Gruppo: frumento,granturco e cereali minori,riso,barbabietola,tabacchi,agrumi,altra frutta fresca,frutta a guscio,frutta a nocciolo,pomacee,uva da tavola,olii di oliva di pressione,cavoli e cavolfiori,frutti ortivi freschi,insalate,legumi freschi,ortaggi a foglia e stelo,patate,radici e bulbi,oleaginose,vini comuni,vini doc-docg,vini igt - Prodotto: frumento duro,frumento tenero,avena,mais,orzo,risone,barbabietola da zucchero,tabacco greggio, non lavorato,arance,clementine,limoni,mandarini,actinidia,loti,mandorle in guscio,nocciole,noci,pistacchi,albicocche,ciliegie,nettarine,pesche,susine,mele da tavola,pere da tavola,uva da tavola,olio extravergine di oliva,olio lampante di oliva,olio vergine di oliva,cavolfiori,angurie,cetrioli,cetrioli serra,fragole,melanzane,melanzane serra,meloni,peperoni,peperoni serra,pomodori,pomodori serra,zucchine,zucchine serra,indivia,lattuga,radicchio,fagiolini,fagiolini serra,asparagi,carciofi,finocchi,sedani,spinaci,patate comuni,patate novelle,agli,carote,cipolle,soia,vini comuni bianchi,vini comuni rossi e rosati,vini doc-docg bianchi,vini doc-docg rossi e rosati,vini igt bianchi,vini igt rossi e rosati"
+
+Prodotto,Mese,PrezzoMedioPerUdM8,Varieta,PrezzoMedioPerUdM9
+Actinidia,gen,"237,96",Hayward,"237,96"
+Actinidia,feb,"238,47",Hayward,"238,47"
+Actinidia,mar,"239,07",Hayward,"239,07"
+Actinidia,apr,"245,00",Hayward,"245,00"
+Actinidia,mag,"249,71",Hayward,"249,71"
+Actinidia,giu,n.d.,Hayward,n.d.
+Actinidia,lug,n.d.,Hayward,n.d.
+Actinidia,ago,n.d.,Hayward,n.d.
+Actinidia,set,n.d.,Hayward,n.d.
+Actinidia,ott,n.d.,Hayward,n.d.
+Actinidia,nov,"219,80",Hayward,"219,80"
+Actinidia,dic,"244,50",Hayward,"244,50"
+Agli,gen,"112,78",-,"112,78"
+Agli,feb,"125,63",-,"125,63"
+Agli,mar,n.d.,-,n.d.
+Agli,apr,n.d.,-,n.d.
+Agli,mag,"121,52",-,"121,52"
+Agli,giu,"132,26",-,"132,26"
+Agli,lug,"111,29",-,"111,29"
+Agli,ago,"121,18",-,"121,18"
+Agli,set,"137,68",-,"137,68"
+Agli,ott,"143,02",-,"143,02"
+Agli,nov,"147,36",-,"147,36"
+Agli,dic,"144,26",-,"144,26"
+Albicocche,gen,n.d.,-,n.d.
+Albicocche,feb,n.d.,-,n.d.
+Albicocche,mar,n.d.,-,n.d.
+Albicocche,apr,n.d.,-,n.d.
+Albicocche,mag,"174,77",-,"174,77"
+Albicocche,giu,"112,02",-,"112,02"
+Albicocche,lug,"93,10",-,"93,10"
+Albicocche,ago,n.d.,-,n.d.
+Albicocche,set,n.d.,-,n.d.
+Albicocche,ott,n.d.,-,n.d.
+Albicocche,nov,n.d.,-,n.d.
+Albicocche,dic,n.d.,-,n.d.
+Angurie,gen,n.d.,Oblunghe,n.d.
+Angurie,feb,n.d.,Oblunghe,n.d.
+Angurie,mar,n.d.,Oblunghe,n.d.
+Angurie,apr,n.d.,Oblunghe,n.d.
+Angurie,mag,"251,34",Oblunghe,"251,34"
+Angurie,giu,"204,67",Oblunghe,"203,21"
+Angurie,lug,"184,56",Oblunghe,"187,34"
+Angurie,ago,"134,64",Oblunghe,"134,88"
+Angurie,set,n.d.,Oblunghe,n.d.
+Angurie,ott,n.d.,Oblunghe,n.d.
+Angurie,nov,n.d.,Oblunghe,n.d.
+Angurie,dic,n.d.,Oblunghe,n.d.
+Angurie,gen,n.d.,Sferiche,n.d.
+Angurie,feb,n.d.,Sferiche,n.d.
+Angurie,mar,n.d.,Sferiche,n.d.
+Angurie,apr,n.d.,Sferiche,n.d.
+Angurie,mag,"251,34",Sferiche,"251,34"
+Angurie,giu,"204,67",Sferiche,"210,49"
+Angurie,lug,"184,56",Sferiche,"173,71"
+Angurie,ago,"134,64",Sferiche,"133,68"
+Angurie,set,n.d.,Sferiche,n.d.
+Angurie,ott,n.d.,Sferiche,n.d.
+Angurie,nov,n.d.,Sferiche,n.d.
+Angurie,dic,n.d.,Sferiche,n.d.
+Arance,gen,"227,84",Moro,"280,85"
+Arance,feb,"200,69",Moro,"238,61"
+Arance,mar,"193,49",Moro,"193,87"
+Arance,apr,n.d.,Moro,n.d.
+Arance,mag,n.d.,Moro,n.d.
+Arance,giu,n.d.,Moro,n.d.
+Arance,lug,n.d.,Moro,n.d.
+Arance,ago,n.d.,Moro,n.d.
+Arance,set,n.d.,Moro,n.d.
+Arance,ott,n.d.,Moro,n.d.
+Arance,nov,"223,06",Moro,"274,64"
+Arance,dic,"229,25",Moro,"274,64"
+Arance,gen,"227,84",Navel,"203,13"
+Arance,feb,"200,69",Navel,"175,64"
+Arance,mar,"193,49",Navel,"164,77"
+Arance,apr,n.d.,Navel,n.d.
+Arance,mag,n.d.,Navel,n.d.
+Arance,giu,n.d.,Navel,n.d.
+Arance,lug,n.d.,Navel,n.d.
+Arance,ago,n.d.,Navel,n.d.
+Arance,set,n.d.,Navel,n.d.
+Arance,ott,n.d.,Navel,"185,65"
+Arance,nov,"223,06",Navel,"223,65"
+Arance,dic,"229,25",Navel,"205,54"
+Arance,gen,"227,84",Ovale,n.d.
+Arance,feb,"200,69",Ovale,n.d.
+Arance,mar,"193,49",Ovale,n.d.
+Arance,apr,n.d.,Ovale,"164,23"
+Arance,mag,n.d.,Ovale,"164,23"
+Arance,giu,n.d.,Ovale,n.d.
+Arance,lug,n.d.,Ovale,n.d.
+Arance,ago,n.d.,Ovale,n.d.
+Arance,set,n.d.,Ovale,n.d.
+Arance,ott,n.d.,Ovale,n.d.
+Arance,nov,"223,06",Ovale,n.d.
+Arance,dic,"229,25",Ovale,n.d.
+Arance,gen,"227,84",Sanguinello,n.d.
+Arance,feb,"200,69",Sanguinello,n.d.
+Arance,mar,"193,49",Sanguinello,"214,83"
+Arance,apr,n.d.,Sanguinello,"240,89"
+Arance,mag,n.d.,Sanguinello,n.d.
+Arance,giu,n.d.,Sanguinello,n.d.
+Arance,lug,n.d.,Sanguinello,n.d.
+Arance,ago,n.d.,Sanguinello,n.d.
+Arance,set,n.d.,Sanguinello,n.d.
+Arance,ott,n.d.,Sanguinello,n.d.
+Arance,nov,"223,06",Sanguinello,n.d.
+Arance,dic,"229,25",Sanguinello,n.d.
+Arance,gen,"227,84",Tarocco Comune,"240,61"
+Arance,feb,"200,69",Tarocco Comune,"204,32"
+Arance,mar,"193,49",Tarocco Comune,"189,19"
+Arance,apr,n.d.,Tarocco Comune,"189,19"
+Arance,mag,n.d.,Tarocco Comune,n.d.
+Arance,giu,n.d.,Tarocco Comune,n.d.
+Arance,lug,n.d.,Tarocco Comune,n.d.
+Arance,ago,n.d.,Tarocco Comune,n.d.
+Arance,set,n.d.,Tarocco Comune,n.d.
+Arance,ott,n.d.,Tarocco Comune,n.d.
+Arance,nov,"223,06",Tarocco Comune,n.d.
+Arance,dic,"229,25",Tarocco Comune,"252,72"
+Arance,gen,"227,84",Tarocco Gallo,n.d.
+Arance,feb,"200,69",Tarocco Gallo,"187,97"
+Arance,mar,"193,49",Tarocco Gallo,"183,38"
+Arance,apr,n.d.,Tarocco Gallo,"183,38"
+Arance,mag,n.d.,Tarocco Gallo,n.d.
+Arance,giu,n.d.,Tarocco Gallo,n.d.
+Arance,lug,n.d.,Tarocco Gallo,n.d.
+Arance,ago,n.d.,Tarocco Gallo,n.d.
+Arance,set,n.d.,Tarocco Gallo,n.d.
+Arance,ott,n.d.,Tarocco Gallo,n.d.
+Arance,nov,"223,06",Tarocco Gallo,n.d.
+Arance,dic,"229,25",Tarocco Gallo,n.d.
+Arance,gen,"227,84",Tarocco Nucellare,"153,45"
+Arance,feb,"200,69",Tarocco Nucellare,n.d.
+Arance,mar,"193,49",Tarocco Nucellare,n.d.
+Arance,apr,n.d.,Tarocco Nucellare,n.d.
+Arance,mag,n.d.,Tarocco Nucellare,n.d.
+Arance,giu,n.d.,Tarocco Nucellare,n.d.
+Arance,lug,n.d.,Tarocco Nucellare,n.d.
+Arance,ago,n.d.,Tarocco Nucellare,n.d.
+Arance,set,n.d.,Tarocco Nucellare,n.d.
+Arance,ott,n.d.,Tarocco Nucellare,n.d.
+Arance,nov,"223,06",Tarocco Nucellare,"169,74"
+Arance,dic,"229,25",Tarocco Nucellare,"164,31"
+Arance,gen,"227,84",Valencia,n.d.
+Arance,feb,"200,69",Valencia,n.d.
+Arance,mar,"193,49",Valencia,n.d.
+Arance,apr,n.d.,Valencia,"163,64"
+Arance,mag,n.d.,Valencia,"163,64"
+Arance,giu,n.d.,Valencia,n.d.
+Arance,lug,n.d.,Valencia,n.d.
+Arance,ago,n.d.,Valencia,n.d.
+Arance,set,n.d.,Valencia,n.d.
+Arance,ott,n.d.,Valencia,n.d.
+Arance,nov,"223,06",Valencia,n.d.
+Arance,dic,"229,25",Valencia,n.d.
+Arance,gen,"227,84",Washington Navel,"266,08"
+Arance,feb,"200,69",Washington Navel,"258,72"
+Arance,mar,"193,49",Washington Navel,"262,32"
+Arance,apr,n.d.,Washington Navel,"265,39"
+Arance,mag,n.d.,Washington Navel,n.d.
+Arance,giu,n.d.,Washington Navel,n.d.
+Arance,lug,n.d.,Washington Navel,n.d.
+Arance,ago,n.d.,Washington Navel,n.d.
+Arance,set,n.d.,Washington Navel,n.d.
+Arance,ott,n.d.,Washington Navel,n.d.
+Arance,nov,"223,06",Washington Navel,n.d.
+Arance,dic,"229,25",Washington Navel,n.d.
+Asparagi,gen,n.d.,Verdi,n.d.
+Asparagi,feb,n.d.,Verdi,n.d.
+Asparagi,mar,"153,40",Verdi,"153,40"
+Asparagi,apr,"129,71",Verdi,"129,71"
+Asparagi,mag,"123,18",Verdi,"123,18"
+Asparagi,giu,"113,62",Verdi,"113,62"
+Asparagi,lug,n.d.,Verdi,n.d.
+Asparagi,ago,n.d.,Verdi,n.d.
+Asparagi,set,n.d.,Verdi,n.d.
+Asparagi,ott,n.d.,Verdi,n.d.
+Asparagi,nov,n.d.,Verdi,n.d.
+Asparagi,dic,n.d.,Verdi,n.d.
+Avena,gen,"140,35",-,"140,35"
+Avena,feb,"142,90",-,"142,90"
+Avena,mar,"144,22",-,"144,22"
+Avena,apr,"151,25",-,"151,25"
+Avena,mag,"153,61",-,"153,61"
+Avena,giu,"188,82",-,"188,82"
+Avena,lug,"175,94",-,"175,94"
+Avena,ago,"175,81",-,"175,81"
+Avena,set,"176,73",-,"176,73"
+Avena,ott,"159,37",-,"159,37"
+Avena,nov,"159,58",-,"159,58"
+Avena,dic,"159,58",-,"159,58"
+Barbabietola Da Zucchero,gen,"161,42",-,"161,42"
+Barbabietola Da Zucchero,feb,"161,42",-,"161,42"
+Barbabietola Da Zucchero,mar,"161,42",-,"161,42"
+Barbabietola Da Zucchero,apr,"161,42",-,"161,42"
+Barbabietola Da Zucchero,mag,"161,42",-,"161,42"
+Barbabietola Da Zucchero,giu,"161,42",-,"161,42"
+Barbabietola Da Zucchero,lug,"161,42",-,"161,42"
+Barbabietola Da Zucchero,ago,"161,42",-,"161,42"
+Barbabietola Da Zucchero,set,"161,42",-,"161,42"
+Barbabietola Da Zucchero,ott,"161,42",-,"161,42"
+Barbabietola Da Zucchero,nov,"161,42",-,"161,42"
+Barbabietola Da Zucchero,dic,"158,73",-,"158,73"
+Carciofi,gen,"173,97",Spinoso Sardo,"232,44"
+Carciofi,feb,"136,98",Spinoso Sardo,"187,49"
+Carciofi,mar,"93,23",Spinoso Sardo,"155,60"
+Carciofi,apr,"82,29",Spinoso Sardo,"111,42"
+Carciofi,mag,n.d.,Spinoso Sardo,n.d.
+Carciofi,giu,n.d.,Spinoso Sardo,n.d.
+Carciofi,lug,n.d.,Spinoso Sardo,n.d.
+Carciofi,ago,n.d.,Spinoso Sardo,n.d.
+Carciofi,set,n.d.,Spinoso Sardo,n.d.
+Carciofi,ott,n.d.,Spinoso Sardo,n.d.
+Carciofi,nov,"206,22",Spinoso Sardo,"261,25"
+Carciofi,dic,"214,85",Spinoso Sardo,"261,25"
+Carciofi,gen,"173,97",Terom,n.d.
+Carciofi,feb,"136,98",Terom,n.d.
+Carciofi,mar,"93,23",Terom,"131,96"
+Carciofi,apr,"82,29",Terom,"131,96"
+Carciofi,mag,n.d.,Terom,"131,96"
+Carciofi,giu,n.d.,Terom,n.d.
+Carciofi,lug,n.d.,Terom,n.d.
+Carciofi,ago,n.d.,Terom,n.d.
+Carciofi,set,n.d.,Terom,n.d.
+Carciofi,ott,n.d.,Terom,n.d.
+Carciofi,nov,"206,22",Terom,n.d.
+Carciofi,dic,"214,85",Terom,n.d.
+Carciofi,gen,"173,97",Tipo Catanese,"160,13"
+Carciofi,feb,"136,98",Tipo Catanese,"114,41"
+Carciofi,mar,"93,23",Tipo Catanese,"58,34"
+Carciofi,apr,"82,29",Tipo Catanese,"53,90"
+Carciofi,mag,n.d.,Tipo Catanese,n.d.
+Carciofi,giu,n.d.,Tipo Catanese,n.d.
+Carciofi,lug,n.d.,Tipo Catanese,n.d.
+Carciofi,ago,n.d.,Tipo Catanese,n.d.
+Carciofi,set,n.d.,Tipo Catanese,n.d.
+Carciofi,ott,n.d.,Tipo Catanese,"176,47"
+Carciofi,nov,"206,22",Tipo Catanese,"193,19"
+Carciofi,dic,"214,85",Tipo Catanese,"203,86"
+Carciofi,gen,"173,97",Tipo Romanesco,n.d.
+Carciofi,feb,"136,98",Tipo Romanesco,"205,62"
+Carciofi,mar,"93,23",Tipo Romanesco,"159,39"
+Carciofi,apr,"82,29",Tipo Romanesco,"129,63"
+Carciofi,mag,n.d.,Tipo Romanesco,"120,62"
+Carciofi,giu,n.d.,Tipo Romanesco,n.d.
+Carciofi,lug,n.d.,Tipo Romanesco,n.d.
+Carciofi,ago,n.d.,Tipo Romanesco,n.d.
+Carciofi,set,n.d.,Tipo Romanesco,n.d.
+Carciofi,ott,n.d.,Tipo Romanesco,n.d.
+Carciofi,nov,"206,22",Tipo Romanesco,n.d.
+Carciofi,dic,"214,85",Tipo Romanesco,n.d.
+Carote,gen,"282,26",-,"282,26"
+Carote,feb,"282,26",-,"282,26"
+Carote,mar,"253,82",-,"253,82"
+Carote,apr,"253,82",-,"253,82"
+Carote,mag,"445,00",-,"445,00"
+Carote,giu,"309,56",-,"309,56"
+Carote,lug,"310,22",-,"310,22"
+Carote,ago,"317,15",-,"317,15"
+Carote,set,"217,02",-,"217,02"
+Carote,ott,"248,95",-,"248,95"
+Carote,nov,"248,95",-,"248,95"
+Carote,dic,"237,90",-,"237,90"
+Cavolfiori,gen,"262,68",-,"262,68"
+Cavolfiori,feb,"145,07",-,"145,07"
+Cavolfiori,mar,"96,87",-,"96,87"
+Cavolfiori,apr,"84,69",-,"84,69"
+Cavolfiori,mag,n.d.,-,n.d.
+Cavolfiori,giu,n.d.,-,n.d.
+Cavolfiori,lug,n.d.,-,n.d.
+Cavolfiori,ago,n.d.,-,n.d.
+Cavolfiori,set,n.d.,-,n.d.
+Cavolfiori,ott,"265,96",-,"265,96"
+Cavolfiori,nov,"157,30",-,"157,30"
+Cavolfiori,dic,"180,14",-,"180,14"
+Cetrioli,gen,n.d.,-,n.d.
+Cetrioli,feb,n.d.,-,n.d.
+Cetrioli,mar,n.d.,-,n.d.
+Cetrioli,apr,n.d.,-,n.d.
+Cetrioli,mag,n.d.,-,n.d.
+Cetrioli,giu,"150,66",-,"150,66"
+Cetrioli,lug,"122,18",-,"122,18"
+Cetrioli,ago,"133,71",-,"133,71"
+Cetrioli,set,"204,27",-,"204,27"
+Cetrioli,ott,n.d.,-,n.d.
+Cetrioli,nov,n.d.,-,n.d.
+Cetrioli,dic,n.d.,-,n.d.
+Cetrioli Serra,gen,"217,86",-,"217,86"
+Cetrioli Serra,feb,"158,59",-,"158,59"
+Cetrioli Serra,mar,"114,12",-,"114,12"
+Cetrioli Serra,apr,"129,20",-,"129,20"
+Cetrioli Serra,mag,"119,53",-,"119,53"
+Cetrioli Serra,giu,"105,38",-,"105,38"
+Cetrioli Serra,lug,n.d.,-,n.d.
+Cetrioli Serra,ago,n.d.,-,n.d.
+Cetrioli Serra,set,n.d.,-,n.d.
+Cetrioli Serra,ott,"200,45",-,"200,45"
+Cetrioli Serra,nov,"174,10",-,"174,10"
+Cetrioli Serra,dic,"145,42",-,"145,42"
+Ciliegie,gen,n.d.,Bigarreau,n.d.
+Ciliegie,feb,n.d.,Bigarreau,n.d.
+Ciliegie,mar,n.d.,Bigarreau,n.d.
+Ciliegie,apr,n.d.,Bigarreau,n.d.
+Ciliegie,mag,"131,84",Bigarreau,"101,92"
+Ciliegie,giu,n.d.,Bigarreau,n.d.
+Ciliegie,lug,n.d.,Bigarreau,n.d.
+Ciliegie,ago,n.d.,Bigarreau,n.d.
+Ciliegie,set,n.d.,Bigarreau,n.d.
+Ciliegie,ott,n.d.,Bigarreau,n.d.
+Ciliegie,nov,n.d.,Bigarreau,n.d.
+Ciliegie,dic,n.d.,Bigarreau,n.d.
+Ciliegie,gen,n.d.,Dure,n.d.
+Ciliegie,feb,n.d.,Dure,n.d.
+Ciliegie,mar,n.d.,Dure,n.d.
+Ciliegie,apr,n.d.,Dure,n.d.
+Ciliegie,mag,"131,84",Dure,"124,77"
+Ciliegie,giu,n.d.,Dure,"103,52"
+Ciliegie,lug,n.d.,Dure,"99,20"
+Ciliegie,ago,n.d.,Dure,n.d.
+Ciliegie,set,n.d.,Dure,n.d.
+Ciliegie,ott,n.d.,Dure,n.d.
+Ciliegie,nov,n.d.,Dure,n.d.
+Ciliegie,dic,n.d.,Dure,n.d.
+Ciliegie,gen,n.d.,Ferrovia,n.d.
+Ciliegie,feb,n.d.,Ferrovia,n.d.
+Ciliegie,mar,n.d.,Ferrovia,n.d.
+Ciliegie,apr,n.d.,Ferrovia,n.d.
+Ciliegie,mag,"131,84",Ferrovia,"132,88"
+Ciliegie,giu,n.d.,Ferrovia,"94,76"
+Ciliegie,lug,n.d.,Ferrovia,n.d.
+Ciliegie,ago,n.d.,Ferrovia,n.d.
+Ciliegie,set,n.d.,Ferrovia,n.d.
+Ciliegie,ott,n.d.,Ferrovia,n.d.
+Ciliegie,nov,n.d.,Ferrovia,n.d.
+Ciliegie,dic,n.d.,Ferrovia,n.d.
+Ciliegie,gen,n.d.,Mora Di Verona,n.d.
+Ciliegie,feb,n.d.,Mora Di Verona,n.d.
+Ciliegie,mar,n.d.,Mora Di Verona,n.d.
+Ciliegie,apr,n.d.,Mora Di Verona,n.d.
+Ciliegie,mag,"131,84",Mora Di Verona,n.d.
+Ciliegie,giu,n.d.,Mora Di Verona,"166,05"
+Ciliegie,lug,n.d.,Mora Di Verona,"184,22"
+Ciliegie,ago,n.d.,Mora Di Verona,n.d.
+Ciliegie,set,n.d.,Mora Di Verona,n.d.
+Ciliegie,ott,n.d.,Mora Di Verona,n.d.
+Ciliegie,nov,n.d.,Mora Di Verona,n.d.
+Ciliegie,dic,n.d.,Mora Di Verona,n.d.
+Ciliegie,gen,n.d.,Tenere,n.d.
+Ciliegie,feb,n.d.,Tenere,n.d.
+Ciliegie,mar,n.d.,Tenere,n.d.
+Ciliegie,apr,n.d.,Tenere,n.d.
+Ciliegie,mag,"131,84",Tenere,"182,07"
+Ciliegie,giu,n.d.,Tenere,"169,23"
+Ciliegie,lug,n.d.,Tenere,"133,32"
+Ciliegie,ago,n.d.,Tenere,n.d.
+Ciliegie,set,n.d.,Tenere,n.d.
+Ciliegie,ott,n.d.,Tenere,n.d.
+Ciliegie,nov,n.d.,Tenere,n.d.
+Ciliegie,dic,n.d.,Tenere,n.d.
+Cipolle,gen,"261,21",Dorate Di Parma,"326,39"
+Cipolle,feb,"297,97",Dorate Di Parma,"373,02"
+Cipolle,mar,"283,78",Dorate Di Parma,"373,02"
+Cipolle,apr,n.d.,Dorate Di Parma,n.d.
+Cipolle,mag,n.d.,Dorate Di Parma,n.d.
+Cipolle,giu,n.d.,Dorate Di Parma,n.d.
+Cipolle,lug,n.d.,Dorate Di Parma,n.d.
+Cipolle,ago,"103,72",Dorate Di Parma,"109,42"
+Cipolle,set,"117,09",Dorate Di Parma,"104,45"
+Cipolle,ott,"124,30",Dorate Di Parma,"136,77"
+Cipolle,nov,"126,96",Dorate Di Parma,"136,77"
+Cipolle,dic,"132,31",Dorate Di Parma,"136,77"
+Cipolle,gen,"261,21",Tonde Bianche,"260,77"
+Cipolle,feb,"297,97",Tonde Bianche,"319,24"
+Cipolle,mar,"283,78",Tonde Bianche,"258,13"
+Cipolle,apr,n.d.,Tonde Bianche,n.d.
+Cipolle,mag,n.d.,Tonde Bianche,n.d.
+Cipolle,giu,n.d.,Tonde Bianche,n.d.
+Cipolle,lug,n.d.,Tonde Bianche,"122,59"
+Cipolle,ago,"103,72",Tonde Bianche,"107,08"
+Cipolle,set,"117,09",Tonde Bianche,"119,68"
+Cipolle,ott,"124,30",Tonde Bianche,"127,48"
+Cipolle,nov,"126,96",Tonde Bianche,"127,48"
+Cipolle,dic,"132,31",Tonde Bianche,"134,05"
+Cipolle,gen,"261,21",Tonde Gialle,"262,10"
+Cipolle,feb,"297,97",Tonde Gialle,"277,40"
+Cipolle,mar,"283,78",Tonde Gialle,"277,40"
+Cipolle,apr,n.d.,Tonde Gialle,n.d.
+Cipolle,mag,n.d.,Tonde Gialle,n.d.
+Cipolle,giu,n.d.,Tonde Gialle,n.d.
+Cipolle,lug,n.d.,Tonde Gialle,"111,93"
+Cipolle,ago,"103,72",Tonde Gialle,"96,69"
+Cipolle,set,"117,09",Tonde Gialle,"112,11"
+Cipolle,ott,"124,30",Tonde Gialle,"117,80"
+Cipolle,nov,"126,96",Tonde Gialle,"123,91"
+Cipolle,dic,"132,31",Tonde Gialle,"127,89"
+Cipolle,gen,"261,21",Tonde Rosse,"249,19"
+Cipolle,feb,"297,97",Tonde Rosse,"291,19"
+Cipolle,mar,"283,78",Tonde Rosse,"345,60"
+Cipolle,apr,n.d.,Tonde Rosse,n.d.
+Cipolle,mag,n.d.,Tonde Rosse,n.d.
+Cipolle,giu,n.d.,Tonde Rosse,n.d.
+Cipolle,lug,n.d.,Tonde Rosse,"119,23"
+Cipolle,ago,"103,72",Tonde Rosse,"110,22"
+Cipolle,set,"117,09",Tonde Rosse,"126,68"
+Cipolle,ott,"124,30",Tonde Rosse,"132,55"
+Cipolle,nov,"126,96",Tonde Rosse,"132,55"
+Cipolle,dic,"132,31",Tonde Rosse,"139,62"
+Clementine,gen,"132,51",Comune Apirene,"132,51"
+Clementine,feb,"75,36",Comune Apirene,"75,36"
+Clementine,mar,n.d.,Comune Apirene,n.d.
+Clementine,apr,n.d.,Comune Apirene,n.d.
+Clementine,mag,n.d.,Comune Apirene,n.d.
+Clementine,giu,n.d.,Comune Apirene,n.d.
+Clementine,lug,n.d.,Comune Apirene,n.d.
+Clementine,ago,n.d.,Comune Apirene,n.d.
+Clementine,set,n.d.,Comune Apirene,n.d.
+Clementine,ott,"148,13",Comune Apirene,"148,13"
+Clementine,nov,"156,98",Comune Apirene,"156,98"
+Clementine,dic,"142,45",Comune Apirene,"142,45"
+Fagiolini,gen,n.d.,Boby Autunnale,n.d.
+Fagiolini,feb,n.d.,Boby Autunnale,n.d.
+Fagiolini,mar,n.d.,Boby Autunnale,n.d.
+Fagiolini,apr,n.d.,Boby Autunnale,n.d.
+Fagiolini,mag,n.d.,Boby Autunnale,n.d.
+Fagiolini,giu,n.d.,Boby Autunnale,n.d.
+Fagiolini,lug,n.d.,Boby Autunnale,n.d.
+Fagiolini,ago,n.d.,Boby Autunnale,n.d.
+Fagiolini,set,"172,37",Boby Autunnale,"172,37"
+Fagiolini,ott,"160,81",Boby Autunnale,"160,81"
+Fagiolini,nov,n.d.,Boby Autunnale,n.d.
+Fagiolini,dic,n.d.,Boby Autunnale,n.d.
+Fagiolini,gen,n.d.,Boby Primaverile,n.d.
+Fagiolini,feb,n.d.,Boby Primaverile,n.d.
+Fagiolini,mar,n.d.,Boby Primaverile,n.d.
+Fagiolini,apr,n.d.,Boby Primaverile,n.d.
+Fagiolini,mag,n.d.,Boby Primaverile,"248,26"
+Fagiolini,giu,n.d.,Boby Primaverile,"154,29"
+Fagiolini,lug,n.d.,Boby Primaverile,"109,14"
+Fagiolini,ago,n.d.,Boby Primaverile,"143,61"
+Fagiolini,set,"172,37",Boby Primaverile,n.d.
+Fagiolini,ott,"160,81",Boby Primaverile,n.d.
+Fagiolini,nov,n.d.,Boby Primaverile,n.d.
+Fagiolini,dic,n.d.,Boby Primaverile,n.d.
+Fagiolini Serra,gen,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,feb,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,mar,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,apr,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,mag,"36,00",Tipo Boby,"36,00"
+Fagiolini Serra,giu,"31,20",Tipo Boby,"31,20"
+Fagiolini Serra,lug,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,ago,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,set,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,ott,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,nov,n.d.,Tipo Boby,n.d.
+Fagiolini Serra,dic,n.d.,Tipo Boby,n.d.
+Finocchi,gen,"198,64",-,"198,64"
+Finocchi,feb,"130,83",-,"130,83"
+Finocchi,mar,"89,45",-,"89,45"
+Finocchi,apr,"107,85",-,"107,85"
+Finocchi,mag,"171,85",-,"171,85"
+Finocchi,giu,n.d.,-,n.d.
+Finocchi,lug,n.d.,-,n.d.
+Finocchi,ago,n.d.,-,n.d.
+Finocchi,set,n.d.,-,n.d.
+Finocchi,ott,"183,80",-,"183,80"
+Finocchi,nov,"185,82",-,"185,82"
+Finocchi,dic,"190,26",-,"190,26"
+Fragole,gen,n.d.,-,n.d.
+Fragole,feb,n.d.,-,n.d.
+Fragole,mar,"97,75",-,"97,75"
+Fragole,apr,"116,83",-,"116,83"
+Fragole,mag,"124,72",-,"124,72"
+Fragole,giu,"194,31",-,"194,31"
+Fragole,lug,n.d.,-,n.d.
+Fragole,ago,n.d.,-,n.d.
+Fragole,set,n.d.,-,n.d.
+Fragole,ott,n.d.,-,n.d.
+Fragole,nov,n.d.,-,n.d.
+Fragole,dic,n.d.,-,n.d.
+Frumento Duro,gen,"196,31",Buono Mercantile,"196,62"
+Frumento Duro,feb,"190,30",Buono Mercantile,"190,59"
+Frumento Duro,mar,"166,23",Buono Mercantile,"166,12"
+Frumento Duro,apr,"170,06",Buono Mercantile,"169,25"
+Frumento Duro,mag,"174,94",Buono Mercantile,"174,30"
+Frumento Duro,giu,"173,90",Buono Mercantile,"172,64"
+Frumento Duro,lug,"166,54",Buono Mercantile,"166,93"
+Frumento Duro,ago,"160,57",Buono Mercantile,"159,32"
+Frumento Duro,set,"158,96",Buono Mercantile,"157,23"
+Frumento Duro,ott,"161,47",Buono Mercantile,"159,02"
+Frumento Duro,nov,"160,74",Buono Mercantile,"158,06"
+Frumento Duro,dic,"160,04",Buono Mercantile,"157,48"
+Frumento Duro,gen,"196,31",Fino,"196,58"
+Frumento Duro,feb,"190,30",Fino,"190,39"
+Frumento Duro,mar,"166,23",Fino,"167,24"
+Frumento Duro,apr,"170,06",Fino,"172,58"
+Frumento Duro,mag,"174,94",Fino,"177,32"
+Frumento Duro,giu,"173,90",Fino,"175,94"
+Frumento Duro,lug,"166,54",Fino,"165,25"
+Frumento Duro,ago,"160,57",Fino,"162,55"
+Frumento Duro,set,"158,96",Fino,"161,79"
+Frumento Duro,ott,"161,47",Fino,"165,67"
+Frumento Duro,nov,"160,74",Fino,"165,42"
+Frumento Duro,dic,"160,04",Fino,"164,62"
+Frumento Duro,gen,"196,31",Mercantile,"189,54"
+Frumento Duro,feb,"190,30",Mercantile,"185,06"
+Frumento Duro,mar,"166,23",Mercantile,"161,35"
+Frumento Duro,apr,"170,06",Mercantile,"166,07"
+Frumento Duro,mag,"174,94",Mercantile,"169,13"
+Frumento Duro,giu,"173,90",Mercantile,"177,22"
+Frumento Duro,lug,"166,54",Mercantile,"171,08"
+Frumento Duro,ago,"160,57",Mercantile,"169,16"
+Frumento Duro,set,"158,96",Mercantile,"169,88"
+Frumento Duro,ott,"161,47",Mercantile,"174,59"
+Frumento Duro,nov,"160,74",Mercantile,"174,22"
+Frumento Duro,dic,"160,04",Mercantile,"172,05"
+Frumento Tenero,gen,"135,32",Buono Mercantile,"127,17"
+Frumento Tenero,feb,"131,04",Buono Mercantile,"122,42"
+Frumento Tenero,mar,"125,32",Buono Mercantile,"115,53"
+Frumento Tenero,apr,"124,43",Buono Mercantile,"114,92"
+Frumento Tenero,mag,"128,27",Buono Mercantile,"121,93"
+Frumento Tenero,giu,"131,82",Buono Mercantile,"126,98"
+Frumento Tenero,lug,"122,23",Buono Mercantile,"117,24"
+Frumento Tenero,ago,"123,73",Buono Mercantile,"119,01"
+Frumento Tenero,set,"124,97",Buono Mercantile,"121,15"
+Frumento Tenero,ott,"129,70",Buono Mercantile,"127,01"
+Frumento Tenero,nov,"131,57",Buono Mercantile,"130,03"
+Frumento Tenero,dic,"134,52",Buono Mercantile,"134,98"
+Frumento Tenero,gen,"135,32",Fino,"126,07"
+Frumento Tenero,feb,"131,04",Fino,"119,08"
+Frumento Tenero,mar,"125,32",Fino,"112,21"
+Frumento Tenero,apr,"124,43",Fino,"111,06"
+Frumento Tenero,mag,"128,27",Fino,"116,89"
+Frumento Tenero,giu,"131,82",Fino,"122,44"
+Frumento Tenero,lug,"122,23",Fino,"114,32"
+Frumento Tenero,ago,"123,73",Fino,"116,16"
+Frumento Tenero,set,"124,97",Fino,"117,38"
+Frumento Tenero,ott,"129,70",Fino,"122,60"
+Frumento Tenero,nov,"131,57",Fino,"124,94"
+Frumento Tenero,dic,"134,52",Fino,"128,98"
+Frumento Tenero,gen,"135,32",Grani Di Forza,"165,78"
+Frumento Tenero,feb,"131,04",Grani Di Forza,"165,58"
+Frumento Tenero,mar,"125,32",Grani Di Forza,"161,62"
+Frumento Tenero,apr,"124,43",Grani Di Forza,"159,22"
+Frumento Tenero,mag,"128,27",Grani Di Forza,"158,81"
+Frumento Tenero,giu,"131,82",Grani Di Forza,"159,10"
+Frumento Tenero,lug,"122,23",Grani Di Forza,"145,63"
+Frumento Tenero,ago,"123,73",Grani Di Forza,"146,02"
+Frumento Tenero,set,"124,97",Grani Di Forza,"146,96"
+Frumento Tenero,ott,"129,70",Grani Di Forza,"149,90"
+Frumento Tenero,nov,"131,57",Grani Di Forza,"150,73"
+Frumento Tenero,dic,"134,52",Grani Di Forza,"150,73"
+Frumento Tenero,gen,"135,32",Mercantile,"120,64"
+Frumento Tenero,feb,"131,04",Mercantile,"117,48"
+Frumento Tenero,mar,"125,32",Mercantile,"113,32"
+Frumento Tenero,apr,"124,43",Mercantile,"110,21"
+Frumento Tenero,mag,"128,27",Mercantile,"112,52"
+Frumento Tenero,giu,"131,82",Mercantile,"112,52"
+Frumento Tenero,lug,"122,23",Mercantile,"105,01"
+Frumento Tenero,ago,"123,73",Mercantile,"108,12"
+Frumento Tenero,set,"124,97",Mercantile,"110,64"
+Frumento Tenero,ott,"129,70",Mercantile,"118,50"
+Frumento Tenero,nov,"131,57",Mercantile,"123,25"
+Frumento Tenero,dic,"134,52",Mercantile,"128,81"
+Frumento Tenero,gen,"135,32",Varieta' Speciali,"140,98"
+Frumento Tenero,feb,"131,04",Varieta' Speciali,"140,47"
+Frumento Tenero,mar,"125,32",Varieta' Speciali,"136,83"
+Frumento Tenero,apr,"124,43",Varieta' Speciali,"136,00"
+Frumento Tenero,mag,"128,27",Varieta' Speciali,"136,69"
+Frumento Tenero,giu,"131,82",Varieta' Speciali,"137,66"
+Frumento Tenero,lug,"122,23",Varieta' Speciali,"128,22"
+Frumento Tenero,ago,"123,73",Varieta' Speciali,"128,63"
+Frumento Tenero,set,"124,97",Varieta' Speciali,"129,62"
+Frumento Tenero,ott,"129,70",Varieta' Speciali,"133,78"
+Frumento Tenero,nov,"131,57",Varieta' Speciali,"134,60"
+Frumento Tenero,dic,"134,52",Varieta' Speciali,"135,87"
+Indivia,gen,"238,74",Riccia/Scarola,"238,74"
+Indivia,feb,"204,32",Riccia/Scarola,"204,32"
+Indivia,mar,"155,36",Riccia/Scarola,"155,36"
+Indivia,apr,"215,26",Riccia/Scarola,"215,26"
+Indivia,mag,"218,39",Riccia/Scarola,"218,39"
+Indivia,giu,n.d.,Riccia/Scarola,n.d.
+Indivia,lug,n.d.,Riccia/Scarola,n.d.
+Indivia,ago,n.d.,Riccia/Scarola,n.d.
+Indivia,set,n.d.,Riccia/Scarola,n.d.
+Indivia,ott,"361,33",Riccia/Scarola,"361,33"
+Indivia,nov,"239,05",Riccia/Scarola,"239,05"
+Indivia,dic,"239,70",Riccia/Scarola,"239,70"
+Lattuga,gen,"213,96",Cappuccia,"239,92"
+Lattuga,feb,"190,28",Cappuccia,"206,76"
+Lattuga,mar,"150,28",Cappuccia,"149,04"
+Lattuga,apr,"149,20",Cappuccia,"165,36"
+Lattuga,mag,"186,49",Cappuccia,"243,26"
+Lattuga,giu,"229,75",Cappuccia,"258,08"
+Lattuga,lug,"270,69",Cappuccia,"341,68"
+Lattuga,ago,"327,46",Cappuccia,"377,03"
+Lattuga,set,"440,02",Cappuccia,"524,50"
+Lattuga,ott,"410,40",Cappuccia,"482,24"
+Lattuga,nov,"228,12",Cappuccia,"263,63"
+Lattuga,dic,"191,49",Cappuccia,"192,57"
+Lattuga,gen,"213,96",Gentile,"235,58"
+Lattuga,feb,"190,28",Gentile,"205,66"
+Lattuga,mar,"150,28",Gentile,"143,58"
+Lattuga,apr,"149,20",Gentile,"147,75"
+Lattuga,mag,"186,49",Gentile,"202,86"
+Lattuga,giu,"229,75",Gentile,"236,66"
+Lattuga,lug,"270,69",Gentile,"288,10"
+Lattuga,ago,"327,46",Gentile,"423,31"
+Lattuga,set,"440,02",Gentile,"540,17"
+Lattuga,ott,"410,40",Gentile,"516,22"
+Lattuga,nov,"228,12",Gentile,"263,17"
+Lattuga,dic,"191,49",Gentile,"208,31"
+Lattuga,gen,"213,96",Iceberg,"195,45"
+Lattuga,feb,"190,28",Iceberg,"172,88"
+Lattuga,mar,"150,28",Iceberg,"156,55"
+Lattuga,apr,"149,20",Iceberg,"162,79"
+Lattuga,mag,"186,49",Iceberg,"198,78"
+Lattuga,giu,"229,75",Iceberg,"216,07"
+Lattuga,lug,"270,69",Iceberg,"216,07"
+Lattuga,ago,"327,46",Iceberg,"216,07"
+Lattuga,set,"440,02",Iceberg,"216,07"
+Lattuga,ott,"410,40",Iceberg,"216,07"
+Lattuga,nov,"228,12",Iceberg,"191,55"
+Lattuga,dic,"191,49",Iceberg,"184,17"
+Lattuga,gen,"213,96",Romana,"186,69"
+Lattuga,feb,"190,28",Romana,"174,96"
+Lattuga,mar,"150,28",Romana,"151,71"
+Lattuga,apr,"149,20",Romana,"128,33"
+Lattuga,mag,"186,49",Romana,"147,66"
+Lattuga,giu,"229,75",Romana,"194,63"
+Lattuga,lug,"270,69",Romana,"188,13"
+Lattuga,ago,"327,46",Romana,"238,62"
+Lattuga,set,"440,02",Romana,"336,59"
+Lattuga,ott,"410,40",Romana,"310,88"
+Lattuga,nov,"228,12",Romana,"188,70"
+Lattuga,dic,"191,49",Romana,"185,45"
+Limoni,gen,n.d.,Bianchetto,n.d.
+Limoni,feb,n.d.,Bianchetto,n.d.
+Limoni,mar,n.d.,Bianchetto,n.d.
+Limoni,apr,n.d.,Bianchetto,n.d.
+Limoni,mag,"146,45",Bianchetto,"146,45"
+Limoni,giu,"169,22",Bianchetto,"169,22"
+Limoni,lug,n.d.,Bianchetto,n.d.
+Limoni,ago,n.d.,Bianchetto,n.d.
+Limoni,set,n.d.,Bianchetto,n.d.
+Limoni,ott,n.d.,Bianchetto,n.d.
+Limoni,nov,n.d.,Bianchetto,n.d.
+Limoni,dic,n.d.,Bianchetto,n.d.
+Limoni,gen,n.d.,Primo Fiore,"147,08"
+Limoni,feb,n.d.,Primo Fiore,"118,03"
+Limoni,mar,n.d.,Primo Fiore,"109,06"
+Limoni,apr,n.d.,Primo Fiore,"105,78"
+Limoni,mag,"146,45",Primo Fiore,n.d.
+Limoni,giu,"169,22",Primo Fiore,n.d.
+Limoni,lug,n.d.,Primo Fiore,n.d.
+Limoni,ago,n.d.,Primo Fiore,n.d.
+Limoni,set,n.d.,Primo Fiore,n.d.
+Limoni,ott,n.d.,Primo Fiore,"248,93"
+Limoni,nov,n.d.,Primo Fiore,"180,75"
+Limoni,dic,n.d.,Primo Fiore,"148,10"
+Limoni,gen,n.d.,Verdello,n.d.
+Limoni,feb,n.d.,Verdello,n.d.
+Limoni,mar,n.d.,Verdello,n.d.
+Limoni,apr,n.d.,Verdello,n.d.
+Limoni,mag,"146,45",Verdello,n.d.
+Limoni,giu,"169,22",Verdello,n.d.
+Limoni,lug,n.d.,Verdello,"121,12"
+Limoni,ago,n.d.,Verdello,"148,04"
+Limoni,set,n.d.,Verdello,"165,24"
+Limoni,ott,n.d.,Verdello,n.d.
+Limoni,nov,n.d.,Verdello,n.d.
+Limoni,dic,n.d.,Verdello,n.d.
+Loti,gen,n.d.,Comuni,n.d.
+Loti,feb,n.d.,Comuni,n.d.
+Loti,mar,n.d.,Comuni,n.d.
+Loti,apr,n.d.,Comuni,n.d.
+Loti,mag,n.d.,Comuni,n.d.
+Loti,giu,n.d.,Comuni,n.d.
+Loti,lug,n.d.,Comuni,n.d.
+Loti,ago,n.d.,Comuni,n.d.
+Loti,set,n.d.,Comuni,n.d.
+Loti,ott,"127,57",Comuni,"127,57"
+Loti,nov,"105,54",Comuni,"105,54"
+Loti,dic,n.d.,Comuni,n.d.
+Mais,gen,"126,95",-,"126,95"
+Mais,feb,"120,86",-,"120,86"
+Mais,mar,"119,08",-,"119,08"
+Mais,apr,"121,99",-,"121,99"
+Mais,mag,"131,40",-,"131,40"
+Mais,giu,"133,26",-,"133,26"
+Mais,lug,"132,15",-,"132,15"
+Mais,ago,"135,24",-,"135,24"
+Mais,set,"131,57",-,"131,57"
+Mais,ott,"131,57",-,"131,57"
+Mais,nov,"130,29",-,"130,29"
+Mais,dic,"132,02",-,"132,02"
+Mandarini,gen,"166,33",Avana,"144,39"
+Mandarini,feb,n.d.,Avana,n.d.
+Mandarini,mar,n.d.,Avana,n.d.
+Mandarini,apr,n.d.,Avana,n.d.
+Mandarini,mag,n.d.,Avana,n.d.
+Mandarini,giu,n.d.,Avana,n.d.
+Mandarini,lug,n.d.,Avana,n.d.
+Mandarini,ago,n.d.,Avana,n.d.
+Mandarini,set,n.d.,Avana,n.d.
+Mandarini,ott,n.d.,Avana,n.d.
+Mandarini,nov,n.d.,Avana,n.d.
+Mandarini,dic,"153,67",Avana,"153,67"
+Mandarini,gen,"166,33",Tardivo Ciaculli,"217,13"
+Mandarini,feb,n.d.,Tardivo Ciaculli,"159,43"
+Mandarini,mar,n.d.,Tardivo Ciaculli,"153,95"
+Mandarini,apr,n.d.,Tardivo Ciaculli,"172,59"
+Mandarini,mag,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,giu,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,lug,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,ago,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,set,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,ott,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,nov,n.d.,Tardivo Ciaculli,n.d.
+Mandarini,dic,"153,67",Tardivo Ciaculli,n.d.
+Mandorle In Guscio,gen,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,feb,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,mar,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,apr,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,mag,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,giu,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,lug,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,ago,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,set,"173,95",Fascionello,"136,28"
+Mandorle In Guscio,ott,"181,09",Fascionello,"140,82"
+Mandorle In Guscio,nov,"191,80",Fascionello,"147,63"
+Mandorle In Guscio,dic,"191,80",Fascionello,"147,63"
+Mandorle In Guscio,gen,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,feb,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,mar,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,apr,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,mag,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,giu,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,lug,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,ago,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,set,"173,95",Pizzuta,"146,57"
+Mandorle In Guscio,ott,"181,09",Pizzuta,"151,90"
+Mandorle In Guscio,nov,"191,80",Pizzuta,"159,90"
+Mandorle In Guscio,dic,"191,80",Pizzuta,"159,90"
+Mandorle In Guscio,gen,"173,95",Romana,"239,01"
+Mandorle In Guscio,feb,"173,95",Romana,"239,01"
+Mandorle In Guscio,mar,"173,95",Romana,"239,01"
+Mandorle In Guscio,apr,"173,95",Romana,"239,01"
+Mandorle In Guscio,mag,"173,95",Romana,"239,01"
+Mandorle In Guscio,giu,"173,95",Romana,"239,01"
+Mandorle In Guscio,lug,"173,95",Romana,"239,01"
+Mandorle In Guscio,ago,"173,95",Romana,"239,01"
+Mandorle In Guscio,set,"173,95",Romana,"239,01"
+Mandorle In Guscio,ott,"181,09",Romana,"250,55"
+Mandorle In Guscio,nov,"191,80",Romana,"267,86"
+Mandorle In Guscio,dic,"191,80",Romana,"267,86"
+Melanzane,gen,n.d.,Lunghe,n.d.
+Melanzane,feb,n.d.,Lunghe,n.d.
+Melanzane,mar,n.d.,Lunghe,n.d.
+Melanzane,apr,n.d.,Lunghe,n.d.
+Melanzane,mag,n.d.,Lunghe,n.d.
+Melanzane,giu,"188,14",Lunghe,"188,14"
+Melanzane,lug,"205,68",Lunghe,"160,31"
+Melanzane,ago,"199,59",Lunghe,"153,07"
+Melanzane,set,"291,96",Lunghe,"282,36"
+Melanzane,ott,"295,84",Lunghe,"279,52"
+Melanzane,nov,n.d.,Lunghe,n.d.
+Melanzane,dic,n.d.,Lunghe,n.d.
+Melanzane,gen,n.d.,Ovali,n.d.
+Melanzane,feb,n.d.,Ovali,n.d.
+Melanzane,mar,n.d.,Ovali,n.d.
+Melanzane,apr,n.d.,Ovali,n.d.
+Melanzane,mag,n.d.,Ovali,n.d.
+Melanzane,giu,"188,14",Ovali,n.d.
+Melanzane,lug,"205,68",Ovali,"294,55"
+Melanzane,ago,"199,59",Ovali,"294,55"
+Melanzane,set,"291,96",Ovali,"384,55"
+Melanzane,ott,"295,84",Ovali,"392,73"
+Melanzane,nov,n.d.,Ovali,n.d.
+Melanzane,dic,n.d.,Ovali,n.d.
+Melanzane,gen,n.d.,Tonde,n.d.
+Melanzane,feb,n.d.,Tonde,n.d.
+Melanzane,mar,n.d.,Tonde,n.d.
+Melanzane,apr,n.d.,Tonde,n.d.
+Melanzane,mag,n.d.,Tonde,n.d.
+Melanzane,giu,"188,14",Tonde,n.d.
+Melanzane,lug,"205,68",Tonde,"188,08"
+Melanzane,ago,"199,59",Tonde,"178,95"
+Melanzane,set,"291,96",Tonde,"238,77"
+Melanzane,ott,"295,84",Tonde,"245,99"
+Melanzane,nov,n.d.,Tonde,n.d.
+Melanzane,dic,n.d.,Tonde,n.d.
+Melanzane Serra,gen,"219,59",Lunghe,"229,87"
+Melanzane Serra,feb,"161,18",Lunghe,"204,16"
+Melanzane Serra,mar,"138,56",Lunghe,"144,16"
+Melanzane Serra,apr,"116,51",Lunghe,"124,68"
+Melanzane Serra,mag,"144,42",Lunghe,"144,94"
+Melanzane Serra,giu,"105,57",Lunghe,"116,88"
+Melanzane Serra,lug,n.d.,Lunghe,n.d.
+Melanzane Serra,ago,n.d.,Lunghe,n.d.
+Melanzane Serra,set,n.d.,Lunghe,n.d.
+Melanzane Serra,ott,n.d.,Lunghe,n.d.
+Melanzane Serra,nov,"230,26",Lunghe,"214,29"
+Melanzane Serra,dic,"317,59",Lunghe,"317,53"
+Melanzane Serra,gen,"219,59",Ovali,n.d.
+Melanzane Serra,feb,"161,18",Ovali,n.d.
+Melanzane Serra,mar,"138,56",Ovali,n.d.
+Melanzane Serra,apr,"116,51",Ovali,n.d.
+Melanzane Serra,mag,"144,42",Ovali,"148,84"
+Melanzane Serra,giu,"105,57",Ovali,"125,58"
+Melanzane Serra,lug,n.d.,Ovali,n.d.
+Melanzane Serra,ago,n.d.,Ovali,n.d.
+Melanzane Serra,set,n.d.,Ovali,n.d.
+Melanzane Serra,ott,n.d.,Ovali,n.d.
+Melanzane Serra,nov,"230,26",Ovali,n.d.
+Melanzane Serra,dic,"317,59",Ovali,n.d.
+Melanzane Serra,gen,"219,59",Tonde,"209,30"
+Melanzane Serra,feb,"161,18",Tonde,"118,19"
+Melanzane Serra,mar,"138,56",Tonde,"132,97"
+Melanzane Serra,apr,"116,51",Tonde,"108,34"
+Melanzane Serra,mag,"144,42",Tonde,"133,95"
+Melanzane Serra,giu,"105,57",Tonde,"49,25"
+Melanzane Serra,lug,n.d.,Tonde,n.d.
+Melanzane Serra,ago,n.d.,Tonde,n.d.
+Melanzane Serra,set,n.d.,Tonde,n.d.
+Melanzane Serra,ott,n.d.,Tonde,"240,33"
+Melanzane Serra,nov,"230,26",Tonde,"246,24"
+Melanzane Serra,dic,"317,59",Tonde,"317,65"
+Mele Da Tavola,gen,"164,62",Annurca,"140,19"
+Mele Da Tavola,feb,"164,52",Annurca,"136,84"
+Mele Da Tavola,mar,"163,53",Annurca,"136,84"
+Mele Da Tavola,apr,"161,24",Annurca,"136,84"
+Mele Da Tavola,mag,"162,09",Annurca,"136,84"
+Mele Da Tavola,giu,n.d.,Annurca,n.d.
+Mele Da Tavola,lug,n.d.,Annurca,n.d.
+Mele Da Tavola,ago,n.d.,Annurca,n.d.
+Mele Da Tavola,set,"123,53",Annurca,"182,14"
+Mele Da Tavola,ott,"140,23",Annurca,"186,86"
+Mele Da Tavola,nov,"163,65",Annurca,"160,25"
+Mele Da Tavola,dic,"164,32",Annurca,"163,60"
+Mele Da Tavola,gen,"164,62",Fuji,"137,13"
+Mele Da Tavola,feb,"164,52",Fuji,"137,14"
+Mele Da Tavola,mar,"163,53",Fuji,"135,26"
+Mele Da Tavola,apr,"161,24",Fuji,"135,63"
+Mele Da Tavola,mag,"162,09",Fuji,"139,89"
+Mele Da Tavola,giu,n.d.,Fuji,"152,09"
+Mele Da Tavola,lug,n.d.,Fuji,n.d.
+Mele Da Tavola,ago,n.d.,Fuji,n.d.
+Mele Da Tavola,set,"123,53",Fuji,n.d.
+Mele Da Tavola,ott,"140,23",Fuji,"127,74"
+Mele Da Tavola,nov,"163,65",Fuji,"129,01"
+Mele Da Tavola,dic,"164,32",Fuji,"140,77"
+Mele Da Tavola,gen,"164,62",Gala Gruppo,n.d.
+Mele Da Tavola,feb,"164,52",Gala Gruppo,n.d.
+Mele Da Tavola,mar,"163,53",Gala Gruppo,n.d.
+Mele Da Tavola,apr,"161,24",Gala Gruppo,n.d.
+Mele Da Tavola,mag,"162,09",Gala Gruppo,n.d.
+Mele Da Tavola,giu,n.d.,Gala Gruppo,n.d.
+Mele Da Tavola,lug,n.d.,Gala Gruppo,n.d.
+Mele Da Tavola,ago,n.d.,Gala Gruppo,"87,98"
+Mele Da Tavola,set,"123,53",Gala Gruppo,n.d.
+Mele Da Tavola,ott,"140,23",Gala Gruppo,n.d.
+Mele Da Tavola,nov,"163,65",Gala Gruppo,n.d.
+Mele Da Tavola,dic,"164,32",Gala Gruppo,n.d.
+Mele Da Tavola,gen,"164,62",Golden Delicious,"176,42"
+Mele Da Tavola,feb,"164,52",Golden Delicious,"176,19"
+Mele Da Tavola,mar,"163,53",Golden Delicious,"174,74"
+Mele Da Tavola,apr,"161,24",Golden Delicious,"166,42"
+Mele Da Tavola,mag,"162,09",Golden Delicious,"166,96"
+Mele Da Tavola,giu,n.d.,Golden Delicious,"165,18"
+Mele Da Tavola,lug,n.d.,Golden Delicious,n.d.
+Mele Da Tavola,ago,n.d.,Golden Delicious,n.d.
+Mele Da Tavola,set,"123,53",Golden Delicious,"129,46"
+Mele Da Tavola,ott,"140,23",Golden Delicious,"148,70"
+Mele Da Tavola,nov,"163,65",Golden Delicious,"173,36"
+Mele Da Tavola,dic,"164,32",Golden Delicious,"173,36"
+Mele Da Tavola,gen,"164,62",Granny Smith,"167,16"
+Mele Da Tavola,feb,"164,52",Granny Smith,"167,16"
+Mele Da Tavola,mar,"163,53",Granny Smith,"167,16"
+Mele Da Tavola,apr,"161,24",Granny Smith,"180,66"
+Mele Da Tavola,mag,"162,09",Granny Smith,"181,84"
+Mele Da Tavola,giu,n.d.,Granny Smith,n.d.
+Mele Da Tavola,lug,n.d.,Granny Smith,n.d.
+Mele Da Tavola,ago,n.d.,Granny Smith,n.d.
+Mele Da Tavola,set,"123,53",Granny Smith,"83,63"
+Mele Da Tavola,ott,"140,23",Granny Smith,"152,19"
+Mele Da Tavola,nov,"163,65",Granny Smith,"163,83"
+Mele Da Tavola,dic,"164,32",Granny Smith,"163,83"
+Mele Da Tavola,gen,"164,62",Morgenduft(Imperatore),"153,32"
+Mele Da Tavola,feb,"164,52",Morgenduft(Imperatore),"153,32"
+Mele Da Tavola,mar,"163,53",Morgenduft(Imperatore),"153,32"
+Mele Da Tavola,apr,"161,24",Morgenduft(Imperatore),"196,32"
+Mele Da Tavola,mag,"162,09",Morgenduft(Imperatore),"201,39"
+Mele Da Tavola,giu,n.d.,Morgenduft(Imperatore),"201,39"
+Mele Da Tavola,lug,n.d.,Morgenduft(Imperatore),n.d.
+Mele Da Tavola,ago,n.d.,Morgenduft(Imperatore),n.d.
+Mele Da Tavola,set,"123,53",Morgenduft(Imperatore),n.d.
+Mele Da Tavola,ott,"140,23",Morgenduft(Imperatore),"104,41"
+Mele Da Tavola,nov,"163,65",Morgenduft(Imperatore),"175,78"
+Mele Da Tavola,dic,"164,32",Morgenduft(Imperatore),"175,78"
+Mele Da Tavola,gen,"164,62",Renetta Canada,"136,73"
+Mele Da Tavola,feb,"164,52",Renetta Canada,"140,30"
+Mele Da Tavola,mar,"163,53",Renetta Canada,"142,68"
+Mele Da Tavola,apr,"161,24",Renetta Canada,"142,68"
+Mele Da Tavola,mag,"162,09",Renetta Canada,"142,68"
+Mele Da Tavola,giu,n.d.,Renetta Canada,n.d.
+Mele Da Tavola,lug,n.d.,Renetta Canada,n.d.
+Mele Da Tavola,ago,n.d.,Renetta Canada,n.d.
+Mele Da Tavola,set,"123,53",Renetta Canada,"71,34"
+Mele Da Tavola,ott,"140,23",Renetta Canada,"107,25"
+Mele Da Tavola,nov,"163,65",Renetta Canada,"157,54"
+Mele Da Tavola,dic,"164,32",Renetta Canada,"157,54"
+Mele Da Tavola,gen,"164,62",Stark Delicious,"146,18"
+Mele Da Tavola,feb,"164,52",Stark Delicious,"147,37"
+Mele Da Tavola,mar,"163,53",Stark Delicious,"147,37"
+Mele Da Tavola,apr,"161,24",Stark Delicious,"150,01"
+Mele Da Tavola,mag,"162,09",Stark Delicious,"150,01"
+Mele Da Tavola,giu,n.d.,Stark Delicious,"148,31"
+Mele Da Tavola,lug,n.d.,Stark Delicious,n.d.
+Mele Da Tavola,ago,n.d.,Stark Delicious,n.d.
+Mele Da Tavola,set,"123,53",Stark Delicious,"110,95"
+Mele Da Tavola,ott,"140,23",Stark Delicious,"123,23"
+Mele Da Tavola,nov,"163,65",Stark Delicious,"144,88"
+Mele Da Tavola,dic,"164,32",Stark Delicious,"144,88"
+Meloni,gen,n.d.,Retati,n.d.
+Meloni,feb,n.d.,Retati,n.d.
+Meloni,mar,n.d.,Retati,n.d.
+Meloni,apr,"290,91",Retati,"290,91"
+Meloni,mag,"224,64",Retati,"224,64"
+Meloni,giu,"151,05",Retati,"151,05"
+Meloni,lug,"129,56",Retati,"129,56"
+Meloni,ago,"121,45",Retati,"121,45"
+Meloni,set,"121,20",Retati,"121,20"
+Meloni,ott,n.d.,Retati,n.d.
+Meloni,nov,n.d.,Retati,n.d.
+Meloni,dic,n.d.,Retati,n.d.
+Nettarine,gen,n.d.,Polpa Gialla,n.d.
+Nettarine,feb,n.d.,Polpa Gialla,n.d.
+Nettarine,mar,n.d.,Polpa Gialla,n.d.
+Nettarine,apr,n.d.,Polpa Gialla,n.d.
+Nettarine,mag,n.d.,Polpa Gialla,n.d.
+Nettarine,giu,"163,14",Polpa Gialla,"163,14"
+Nettarine,lug,"143,76",Polpa Gialla,"143,76"
+Nettarine,ago,"140,94",Polpa Gialla,"140,94"
+Nettarine,set,"161,49",Polpa Gialla,"161,49"
+Nettarine,ott,n.d.,Polpa Gialla,n.d.
+Nettarine,nov,n.d.,Polpa Gialla,n.d.
+Nettarine,dic,n.d.,Polpa Gialla,n.d.
+Nocciole,gen,"144,68",Lunga S.Giovanni,"117,31"
+Nocciole,feb,"145,00",Lunga S.Giovanni,"118,85"
+Nocciole,mar,"145,40",Lunga S.Giovanni,"119,88"
+Nocciole,apr,"145,95",Lunga S.Giovanni,"119,88"
+Nocciole,mag,"145,95",Lunga S.Giovanni,"119,88"
+Nocciole,giu,"146,04",Lunga S.Giovanni,"119,88"
+Nocciole,lug,"146,31",Lunga S.Giovanni,"119,88"
+Nocciole,ago,"146,86",Lunga S.Giovanni,"121,69"
+Nocciole,set,"153,04",Lunga S.Giovanni,"128,91"
+Nocciole,ott,"155,84",Lunga S.Giovanni,"128,91"
+Nocciole,nov,"152,07",Lunga S.Giovanni,"128,91"
+Nocciole,dic,"150,04",Lunga S.Giovanni,"128,91"
+Nocciole,gen,"144,68",Tonda Avellinese,"137,95"
+Nocciole,feb,"145,00",Tonda Avellinese,"137,95"
+Nocciole,mar,"145,40",Tonda Avellinese,"137,95"
+Nocciole,apr,"145,95",Tonda Avellinese,"137,95"
+Nocciole,mag,"145,95",Tonda Avellinese,"137,95"
+Nocciole,giu,"146,04",Tonda Avellinese,"137,95"
+Nocciole,lug,"146,31",Tonda Avellinese,"137,95"
+Nocciole,ago,"146,86",Tonda Avellinese,"139,60"
+Nocciole,set,"153,04",Tonda Avellinese,"146,22"
+Nocciole,ott,"155,84",Tonda Avellinese,"146,22"
+Nocciole,nov,"152,07",Tonda Avellinese,"146,22"
+Nocciole,dic,"150,04",Tonda Avellinese,"146,22"
+Nocciole,gen,"144,68",Tonda Di Giffoni,"149,97"
+Nocciole,feb,"145,00",Tonda Di Giffoni,"149,97"
+Nocciole,mar,"145,40",Tonda Di Giffoni,"149,97"
+Nocciole,apr,"145,95",Tonda Di Giffoni,"149,97"
+Nocciole,mag,"145,95",Tonda Di Giffoni,"149,97"
+Nocciole,giu,"146,04",Tonda Di Giffoni,"149,97"
+Nocciole,lug,"146,31",Tonda Di Giffoni,"149,97"
+Nocciole,ago,"146,86",Tonda Di Giffoni,"149,97"
+Nocciole,set,"153,04",Tonda Di Giffoni,"163,81"
+Nocciole,ott,"155,84",Tonda Di Giffoni,"147,20"
+Nocciole,nov,"152,07",Tonda Di Giffoni,"143,05"
+Nocciole,dic,"150,04",Tonda Di Giffoni,"143,05"
+Nocciole,gen,"144,68",Tonda Gentile Trilobata,"142,58"
+Nocciole,feb,"145,00",Tonda Gentile Trilobata,"142,58"
+Nocciole,mar,"145,40",Tonda Gentile Trilobata,"143,64"
+Nocciole,apr,"145,95",Tonda Gentile Trilobata,"146,83"
+Nocciole,mag,"145,95",Tonda Gentile Trilobata,"146,83"
+Nocciole,giu,"146,04",Tonda Gentile Trilobata,"147,37"
+Nocciole,lug,"146,31",Tonda Gentile Trilobata,"148,96"
+Nocciole,ago,"146,86",Tonda Gentile Trilobata,"148,96"
+Nocciole,set,"153,04",Tonda Gentile Trilobata,"163,86"
+Nocciole,ott,"155,84",Tonda Gentile Trilobata,"208,55"
+Nocciole,nov,"152,07",Tonda Gentile Trilobata,"208,55"
+Nocciole,dic,"150,04",Tonda Gentile Trilobata,"211,74"
+Nocciole,gen,"144,68",Tonda Romana,"159,91"
+Nocciole,feb,"145,00",Tonda Romana,"159,91"
+Nocciole,mar,"145,40",Tonda Romana,"159,91"
+Nocciole,apr,"145,95",Tonda Romana,"159,91"
+Nocciole,mag,"145,95",Tonda Romana,"159,91"
+Nocciole,giu,"146,04",Tonda Romana,"159,91"
+Nocciole,lug,"146,31",Tonda Romana,"159,91"
+Nocciole,ago,"146,86",Tonda Romana,"159,91"
+Nocciole,set,"153,04",Tonda Romana,"159,91"
+Nocciole,ott,"155,84",Tonda Romana,"152,29"
+Nocciole,nov,"152,07",Tonda Romana,"144,14"
+Nocciole,dic,"150,04",Tonda Romana,"137,88"
+Noci,gen,"112,76",Sorrento,"112,76"
+Noci,feb,"115,58",Sorrento,"115,58"
+Noci,mar,"117,46",Sorrento,"117,46"
+Noci,apr,"117,46",Sorrento,"117,46"
+Noci,mag,"117,46",Sorrento,"117,46"
+Noci,giu,"117,46",Sorrento,"117,46"
+Noci,lug,"117,46",Sorrento,"117,46"
+Noci,ago,"117,46",Sorrento,"117,46"
+Noci,set,"126,86",Sorrento,"126,86"
+Noci,ott,"128,74",Sorrento,"128,74"
+Noci,nov,"132,73",Sorrento,"132,73"
+Noci,dic,"133,91",Sorrento,"133,91"
+Olio Extravergine Di Oliva,gen,"372,41",-,"372,41"
+Olio Extravergine Di Oliva,feb,"372,79",-,"372,79"
+Olio Extravergine Di Oliva,mar,"372,81",-,"372,81"
+Olio Extravergine Di Oliva,apr,"368,97",-,"368,97"
+Olio Extravergine Di Oliva,mag,"368,30",-,"368,30"
+Olio Extravergine Di Oliva,giu,"366,81",-,"366,81"
+Olio Extravergine Di Oliva,lug,"362,58",-,"362,58"
+Olio Extravergine Di Oliva,ago,"356,01",-,"356,01"
+Olio Extravergine Di Oliva,set,"356,26",-,"356,26"
+Olio Extravergine Di Oliva,ott,"359,43",-,"359,43"
+Olio Extravergine Di Oliva,nov,"340,43",-,"340,43"
+Olio Extravergine Di Oliva,dic,"368,49",-,"368,49"
+Olio Lampante Di Oliva,gen,"437,35",-,"437,35"
+Olio Lampante Di Oliva,feb,"438,93",-,"438,93"
+Olio Lampante Di Oliva,mar,"429,37",-,"429,37"
+Olio Lampante Di Oliva,apr,"387,29",-,"387,29"
+Olio Lampante Di Oliva,mag,"367,48",-,"367,48"
+Olio Lampante Di Oliva,giu,"358,03",-,"358,03"
+Olio Lampante Di Oliva,lug,"343,76",-,"343,76"
+Olio Lampante Di Oliva,ago,"330,25",-,"330,25"
+Olio Lampante Di Oliva,set,"320,60",-,"320,60"
+Olio Lampante Di Oliva,ott,"318,31",-,"318,31"
+Olio Lampante Di Oliva,nov,"245,08",-,"245,08"
+Olio Lampante Di Oliva,dic,"217,31",-,"217,31"
+Olio Vergine Di Oliva,gen,"419,61",-,"419,61"
+Olio Vergine Di Oliva,feb,"421,25",-,"421,25"
+Olio Vergine Di Oliva,mar,"421,36",-,"421,36"
+Olio Vergine Di Oliva,apr,"402,85",-,"402,85"
+Olio Vergine Di Oliva,mag,"397,84",-,"397,84"
+Olio Vergine Di Oliva,giu,"390,78",-,"390,78"
+Olio Vergine Di Oliva,lug,"371,95",-,"371,95"
+Olio Vergine Di Oliva,ago,"354,37",-,"354,37"
+Olio Vergine Di Oliva,set,"353,78",-,"353,78"
+Olio Vergine Di Oliva,ott,"363,02",-,"363,02"
+Olio Vergine Di Oliva,nov,"299,84",-,"299,84"
+Olio Vergine Di Oliva,dic,"300,81",-,"300,81"
+Orzo,gen,"117,80",-,"117,80"
+Orzo,feb,"113,65",-,"113,65"
+Orzo,mar,"106,99",-,"106,99"
+Orzo,apr,"108,34",-,"108,34"
+Orzo,mag,"109,83",-,"109,83"
+Orzo,giu,"112,89",-,"112,89"
+Orzo,lug,"114,40",-,"114,40"
+Orzo,ago,"116,71",-,"116,71"
+Orzo,set,"117,92",-,"117,92"
+Orzo,ott,"121,81",-,"121,81"
+Orzo,nov,"127,61",-,"127,61"
+Orzo,dic,"135,88",-,"135,88"
+Patate Comuni,gen,"277,25",-,"277,25"
+Patate Comuni,feb,"282,56",-,"282,56"
+Patate Comuni,mar,"291,79",-,"291,79"
+Patate Comuni,apr,"300,67",-,"300,67"
+Patate Comuni,mag,"266,87",-,"266,87"
+Patate Comuni,giu,n.d.,-,n.d.
+Patate Comuni,lug,"210,30",-,"210,30"
+Patate Comuni,ago,"246,34",-,"246,34"
+Patate Comuni,set,"211,65",-,"211,65"
+Patate Comuni,ott,"232,35",-,"232,35"
+Patate Comuni,nov,"232,82",-,"232,82"
+Patate Comuni,dic,"232,80",-,"232,80"
+Patate Novelle,gen,n.d.,-,n.d.
+Patate Novelle,feb,n.d.,-,n.d.
+Patate Novelle,mar,"216,13",-,"216,13"
+Patate Novelle,apr,"213,71",-,"213,71"
+Patate Novelle,mag,"172,59",-,"172,59"
+Patate Novelle,giu,"105,88",-,"105,88"
+Patate Novelle,lug,"79,25",-,"79,25"
+Patate Novelle,ago,n.d.,-,n.d.
+Patate Novelle,set,n.d.,-,n.d.
+Patate Novelle,ott,n.d.,-,n.d.
+Patate Novelle,nov,n.d.,-,n.d.
+Patate Novelle,dic,n.d.,-,n.d.
+Peperoni,gen,n.d.,Colorati,n.d.
+Peperoni,feb,n.d.,Colorati,n.d.
+Peperoni,mar,n.d.,Colorati,n.d.
+Peperoni,apr,n.d.,Colorati,n.d.
+Peperoni,mag,n.d.,Colorati,n.d.
+Peperoni,giu,"211,90",Colorati,"198,55"
+Peperoni,lug,"155,27",Colorati,"151,64"
+Peperoni,ago,"147,10",Colorati,"142,83"
+Peperoni,set,"158,96",Colorati,"155,34"
+Peperoni,ott,"234,23",Colorati,"234,23"
+Peperoni,nov,n.d.,Colorati,n.d.
+Peperoni,dic,n.d.,Colorati,n.d.
+Peperoni,gen,n.d.,Verdi,n.d.
+Peperoni,feb,n.d.,Verdi,n.d.
+Peperoni,mar,n.d.,Verdi,n.d.
+Peperoni,apr,n.d.,Verdi,n.d.
+Peperoni,mag,n.d.,Verdi,n.d.
+Peperoni,giu,"211,90",Verdi,"293,65"
+Peperoni,lug,"155,27",Verdi,"220,23"
+Peperoni,ago,"147,10",Verdi,"223,73"
+Peperoni,set,"158,96",Verdi,"223,73"
+Peperoni,ott,"234,23",Verdi,n.d.
+Peperoni,nov,n.d.,Verdi,n.d.
+Peperoni,dic,n.d.,Verdi,n.d.
+Peperoni Serra,gen,"185,83",Colorati,"185,83"
+Peperoni Serra,feb,"183,82",Colorati,"183,82"
+Peperoni Serra,mar,"115,51",Colorati,"115,51"
+Peperoni Serra,apr,"148,16",Colorati,"148,16"
+Peperoni Serra,mag,"157,55",Colorati,"161,72"
+Peperoni Serra,giu,"114,65",Colorati,"116,77"
+Peperoni Serra,lug,n.d.,Colorati,n.d.
+Peperoni Serra,ago,n.d.,Colorati,n.d.
+Peperoni Serra,set,n.d.,Colorati,n.d.
+Peperoni Serra,ott,"213,95",Colorati,"213,95"
+Peperoni Serra,nov,"150,67",Colorati,"150,67"
+Peperoni Serra,dic,"129,32",Colorati,"129,32"
+Peperoni Serra,gen,"185,83",Verdi,n.d.
+Peperoni Serra,feb,"183,82",Verdi,n.d.
+Peperoni Serra,mar,"115,51",Verdi,n.d.
+Peperoni Serra,apr,"148,16",Verdi,n.d.
+Peperoni Serra,mag,"157,55",Verdi,"120,00"
+Peperoni Serra,giu,"114,65",Verdi,"95,56"
+Peperoni Serra,lug,n.d.,Verdi,n.d.
+Peperoni Serra,ago,n.d.,Verdi,n.d.
+Peperoni Serra,set,n.d.,Verdi,n.d.
+Peperoni Serra,ott,"213,95",Verdi,n.d.
+Peperoni Serra,nov,"150,67",Verdi,n.d.
+Peperoni Serra,dic,"129,32",Verdi,n.d.
+Pere Da Tavola,gen,"257,85",Abate Fetel,"245,41"
+Pere Da Tavola,feb,"258,74",Abate Fetel,"247,80"
+Pere Da Tavola,mar,"251,79",Abate Fetel,"238,77"
+Pere Da Tavola,apr,n.d.,Abate Fetel,n.d.
+Pere Da Tavola,mag,n.d.,Abate Fetel,n.d.
+Pere Da Tavola,giu,n.d.,Abate Fetel,n.d.
+Pere Da Tavola,lug,n.d.,Abate Fetel,n.d.
+Pere Da Tavola,ago,"136,40",Abate Fetel,"160,69"
+Pere Da Tavola,set,"159,02",Abate Fetel,"184,30"
+Pere Da Tavola,ott,"167,09",Abate Fetel,"194,16"
+Pere Da Tavola,nov,"202,61",Abate Fetel,"206,31"
+Pere Da Tavola,dic,"200,89",Abate Fetel,"203,87"
+Pere Da Tavola,gen,"257,85",Conference,"269,41"
+Pere Da Tavola,feb,"258,74",Conference,"264,07"
+Pere Da Tavola,mar,"251,79",Conference,"263,87"
+Pere Da Tavola,apr,n.d.,Conference,"268,99"
+Pere Da Tavola,mag,n.d.,Conference,n.d.
+Pere Da Tavola,giu,n.d.,Conference,n.d.
+Pere Da Tavola,lug,n.d.,Conference,n.d.
+Pere Da Tavola,ago,"136,40",Conference,"133,49"
+Pere Da Tavola,set,"159,02",Conference,"128,64"
+Pere Da Tavola,ott,"167,09",Conference,n.d.
+Pere Da Tavola,nov,"202,61",Conference,"166,49"
+Pere Da Tavola,dic,"200,89",Conference,"166,49"
+Pere Da Tavola,gen,"257,85",Decana Del Comizio,"300,67"
+Pere Da Tavola,feb,"258,74",Decana Del Comizio,"302,51"
+Pere Da Tavola,mar,"251,79",Decana Del Comizio,n.d.
+Pere Da Tavola,apr,n.d.,Decana Del Comizio,n.d.
+Pere Da Tavola,mag,n.d.,Decana Del Comizio,n.d.
+Pere Da Tavola,giu,n.d.,Decana Del Comizio,n.d.
+Pere Da Tavola,lug,n.d.,Decana Del Comizio,n.d.
+Pere Da Tavola,ago,"136,40",Decana Del Comizio,n.d.
+Pere Da Tavola,set,"159,02",Decana Del Comizio,"150,04"
+Pere Da Tavola,ott,"167,09",Decana Del Comizio,"144,20"
+Pere Da Tavola,nov,"202,61",Decana Del Comizio,"193,43"
+Pere Da Tavola,dic,"200,89",Decana Del Comizio,"193,43"
+Pere Da Tavola,gen,"257,85",Kaiser,"286,64"
+Pere Da Tavola,feb,"258,74",Kaiser,"286,64"
+Pere Da Tavola,mar,"251,79",Kaiser,"286,54"
+Pere Da Tavola,apr,n.d.,Kaiser,"287,75"
+Pere Da Tavola,mag,n.d.,Kaiser,n.d.
+Pere Da Tavola,giu,n.d.,Kaiser,n.d.
+Pere Da Tavola,lug,n.d.,Kaiser,n.d.
+Pere Da Tavola,ago,"136,40",Kaiser,"140,00"
+Pere Da Tavola,set,"159,02",Kaiser,"170,12"
+Pere Da Tavola,ott,"167,09",Kaiser,"191,79"
+Pere Da Tavola,nov,"202,61",Kaiser,"220,46"
+Pere Da Tavola,dic,"200,89",Kaiser,"220,38"
+Pere Da Tavola,gen,"257,85",Varieta' Estive,n.d.
+Pere Da Tavola,feb,"258,74",Varieta' Estive,n.d.
+Pere Da Tavola,mar,"251,79",Varieta' Estive,n.d.
+Pere Da Tavola,apr,n.d.,Varieta' Estive,n.d.
+Pere Da Tavola,mag,n.d.,Varieta' Estive,n.d.
+Pere Da Tavola,giu,n.d.,Varieta' Estive,n.d.
+Pere Da Tavola,lug,n.d.,Varieta' Estive,"171,20"
+Pere Da Tavola,ago,"136,40",Varieta' Estive,"144,45"
+Pere Da Tavola,set,"159,02",Varieta' Estive,"150,43"
+Pere Da Tavola,ott,"167,09",Varieta' Estive,n.d.
+Pere Da Tavola,nov,"202,61",Varieta' Estive,n.d.
+Pere Da Tavola,dic,"200,89",Varieta' Estive,n.d.
+Pere Da Tavola,gen,"257,85",William Bianco,n.d.
+Pere Da Tavola,feb,"258,74",William Bianco,n.d.
+Pere Da Tavola,mar,"251,79",William Bianco,n.d.
+Pere Da Tavola,apr,n.d.,William Bianco,n.d.
+Pere Da Tavola,mag,n.d.,William Bianco,n.d.
+Pere Da Tavola,giu,n.d.,William Bianco,n.d.
+Pere Da Tavola,lug,n.d.,William Bianco,n.d.
+Pere Da Tavola,ago,"136,40",William Bianco,"129,67"
+Pere Da Tavola,set,"159,02",William Bianco,"142,40"
+Pere Da Tavola,ott,"167,09",William Bianco,"145,01"
+Pere Da Tavola,nov,"202,61",William Bianco,n.d.
+Pere Da Tavola,dic,"200,89",William Bianco,n.d.
+Pesche,gen,n.d.,Polpa Bianca,n.d.
+Pesche,feb,n.d.,Polpa Bianca,n.d.
+Pesche,mar,n.d.,Polpa Bianca,n.d.
+Pesche,apr,n.d.,Polpa Bianca,n.d.
+Pesche,mag,n.d.,Polpa Bianca,n.d.
+Pesche,giu,"164,86",Polpa Bianca,"156,88"
+Pesche,lug,"141,72",Polpa Bianca,"134,36"
+Pesche,ago,"136,89",Polpa Bianca,"129,52"
+Pesche,set,"152,32",Polpa Bianca,"139,11"
+Pesche,ott,n.d.,Polpa Bianca,n.d.
+Pesche,nov,n.d.,Polpa Bianca,n.d.
+Pesche,dic,n.d.,Polpa Bianca,n.d.
+Pesche,gen,n.d.,Polpa Gialla,n.d.
+Pesche,feb,n.d.,Polpa Gialla,n.d.
+Pesche,mar,n.d.,Polpa Gialla,n.d.
+Pesche,apr,n.d.,Polpa Gialla,n.d.
+Pesche,mag,n.d.,Polpa Gialla,n.d.
+Pesche,giu,"164,86",Polpa Gialla,"165,05"
+Pesche,lug,"141,72",Polpa Gialla,"144,32"
+Pesche,ago,"136,89",Polpa Gialla,"140,18"
+Pesche,set,"152,32",Polpa Gialla,"156,24"
+Pesche,ott,n.d.,Polpa Gialla,n.d.
+Pesche,nov,n.d.,Polpa Gialla,n.d.
+Pesche,dic,n.d.,Polpa Gialla,n.d.
+Pistacchi,gen,"188,24",-,"188,24"
+Pistacchi,feb,"188,24",-,"188,24"
+Pistacchi,mar,"188,24",-,"188,24"
+Pistacchi,apr,"188,24",-,"188,24"
+Pistacchi,mag,"188,24",-,"188,24"
+Pistacchi,giu,"188,24",-,"188,24"
+Pistacchi,lug,"188,24",-,"188,24"
+Pistacchi,ago,"188,24",-,"188,24"
+Pistacchi,set,"188,24",-,"188,24"
+Pistacchi,ott,"188,24",-,"188,24"
+Pistacchi,nov,"188,24",-,"188,24"
+Pistacchi,dic,"188,24",-,"188,24"
+Pomodori,gen,n.d.,Ciliegini,n.d.
+Pomodori,feb,n.d.,Ciliegini,n.d.
+Pomodori,mar,n.d.,Ciliegini,n.d.
+Pomodori,apr,n.d.,Ciliegini,n.d.
+Pomodori,mag,n.d.,Ciliegini,n.d.
+Pomodori,giu,n.d.,Ciliegini,n.d.
+Pomodori,lug,"283,89",Ciliegini,"176,83"
+Pomodori,ago,"313,83",Ciliegini,"186,32"
+Pomodori,set,"430,88",Ciliegini,"228,59"
+Pomodori,ott,"367,87",Ciliegini,"269,13"
+Pomodori,nov,n.d.,Ciliegini,n.d.
+Pomodori,dic,n.d.,Ciliegini,n.d.
+Pomodori,gen,n.d.,Cuore Di Bue,n.d.
+Pomodori,feb,n.d.,Cuore Di Bue,n.d.
+Pomodori,mar,n.d.,Cuore Di Bue,n.d.
+Pomodori,apr,n.d.,Cuore Di Bue,n.d.
+Pomodori,mag,n.d.,Cuore Di Bue,n.d.
+Pomodori,giu,n.d.,Cuore Di Bue,n.d.
+Pomodori,lug,"283,89",Cuore Di Bue,"192,01"
+Pomodori,ago,"313,83",Cuore Di Bue,"183,81"
+Pomodori,set,"430,88",Cuore Di Bue,"211,71"
+Pomodori,ott,"367,87",Cuore Di Bue,n.d.
+Pomodori,nov,n.d.,Cuore Di Bue,n.d.
+Pomodori,dic,n.d.,Cuore Di Bue,n.d.
+Pomodori,gen,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,feb,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,mar,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,apr,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,mag,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,giu,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,lug,"283,89",Tipo S.Marzano Insalataro,"362,45"
+Pomodori,ago,"313,83",Tipo S.Marzano Insalataro,"421,45"
+Pomodori,set,"430,88",Tipo S.Marzano Insalataro,"610,24"
+Pomodori,ott,"367,87",Tipo S.Marzano Insalataro,"474,69"
+Pomodori,nov,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,dic,n.d.,Tipo S.Marzano Insalataro,n.d.
+Pomodori,gen,n.d.,Tondo Liscio,n.d.
+Pomodori,feb,n.d.,Tondo Liscio,n.d.
+Pomodori,mar,n.d.,Tondo Liscio,n.d.
+Pomodori,apr,n.d.,Tondo Liscio,n.d.
+Pomodori,mag,n.d.,Tondo Liscio,"273,70"
+Pomodori,giu,n.d.,Tondo Liscio,"220,29"
+Pomodori,lug,"283,89",Tondo Liscio,"199,12"
+Pomodori,ago,"313,83",Tondo Liscio,"187,47"
+Pomodori,set,"430,88",Tondo Liscio,"214,89"
+Pomodori,ott,"367,87",Tondo Liscio,"306,93"
+Pomodori,nov,n.d.,Tondo Liscio,n.d.
+Pomodori,dic,n.d.,Tondo Liscio,n.d.
+Pomodori Serra,gen,"191,35",Ciliegini,"172,32"
+Pomodori Serra,feb,"136,51",Ciliegini,"131,39"
+Pomodori Serra,mar,"164,10",Ciliegini,"153,47"
+Pomodori Serra,apr,"146,41",Ciliegini,"130,59"
+Pomodori Serra,mag,"99,26",Ciliegini,"85,08"
+Pomodori Serra,giu,"75,66",Ciliegini,"53,85"
+Pomodori Serra,lug,n.d.,Ciliegini,n.d.
+Pomodori Serra,ago,n.d.,Ciliegini,n.d.
+Pomodori Serra,set,n.d.,Ciliegini,n.d.
+Pomodori Serra,ott,"257,95",Ciliegini,"312,33"
+Pomodori Serra,nov,"240,05",Ciliegini,"232,90"
+Pomodori Serra,dic,"148,01",Ciliegini,"138,66"
+Pomodori Serra,gen,"191,35",Costoluti,n.d.
+Pomodori Serra,feb,"136,51",Costoluti,n.d.
+Pomodori Serra,mar,"164,10",Costoluti,n.d.
+Pomodori Serra,apr,"146,41",Costoluti,n.d.
+Pomodori Serra,mag,"99,26",Costoluti,"120,37"
+Pomodori Serra,giu,"75,66",Costoluti,"86,82"
+Pomodori Serra,lug,n.d.,Costoluti,n.d.
+Pomodori Serra,ago,n.d.,Costoluti,n.d.
+Pomodori Serra,set,n.d.,Costoluti,n.d.
+Pomodori Serra,ott,"257,95",Costoluti,n.d.
+Pomodori Serra,nov,"240,05",Costoluti,n.d.
+Pomodori Serra,dic,"148,01",Costoluti,n.d.
+Pomodori Serra,gen,"191,35",Tondi Lisci,"130,96"
+Pomodori Serra,feb,"136,51",Tondi Lisci,"117,17"
+Pomodori Serra,mar,"164,10",Tondi Lisci,"117,17"
+Pomodori Serra,apr,"146,41",Tondi Lisci,"103,39"
+Pomodori Serra,mag,"99,26",Tondi Lisci,"81,43"
+Pomodori Serra,giu,"75,66",Tondi Lisci,"60,58"
+Pomodori Serra,lug,n.d.,Tondi Lisci,"75,82"
+Pomodori Serra,ago,n.d.,Tondi Lisci,"78,57"
+Pomodori Serra,set,n.d.,Tondi Lisci,"103,39"
+Pomodori Serra,ott,"257,95",Tondi Lisci,"213,04"
+Pomodori Serra,nov,"240,05",Tondi Lisci,"198,16"
+Pomodori Serra,dic,"148,01",Tondi Lisci,"103,39"
+Pomodori Serra,gen,"191,35",Tondi Lisci Rossi A Grappolo,"232,35"
+Pomodori Serra,feb,"136,51",Tondi Lisci Rossi A Grappolo,"148,70"
+Pomodori Serra,mar,"164,10",Tondi Lisci Rossi A Grappolo,"191,94"
+Pomodori Serra,apr,"146,41",Tondi Lisci Rossi A Grappolo,"177,79"
+Pomodori Serra,mag,"99,26",Tondi Lisci Rossi A Grappolo,"111,53"
+Pomodori Serra,giu,"75,66",Tondi Lisci Rossi A Grappolo,"88,90"
+Pomodori Serra,lug,n.d.,Tondi Lisci Rossi A Grappolo,"88,90"
+Pomodori Serra,ago,n.d.,Tondi Lisci Rossi A Grappolo,"88,90"
+Pomodori Serra,set,n.d.,Tondi Lisci Rossi A Grappolo,"111,12"
+Pomodori Serra,ott,"257,95",Tondi Lisci Rossi A Grappolo,"242,45"
+Pomodori Serra,nov,"240,05",Tondi Lisci Rossi A Grappolo,"262,65"
+Pomodori Serra,dic,"148,01",Tondi Lisci Rossi A Grappolo,"173,75"
+Radicchio,gen,"173,94",Rosso Verona,"126,93"
+Radicchio,feb,"175,14",Rosso Verona,"119,09"
+Radicchio,mar,"197,18",Rosso Verona,"119,09"
+Radicchio,apr,n.d.,Rosso Verona,n.d.
+Radicchio,mag,n.d.,Rosso Verona,n.d.
+Radicchio,giu,n.d.,Rosso Verona,n.d.
+Radicchio,lug,n.d.,Rosso Verona,n.d.
+Radicchio,ago,n.d.,Rosso Verona,n.d.
+Radicchio,set,n.d.,Rosso Verona,n.d.
+Radicchio,ott,"288,32",Rosso Verona,"159,83"
+Radicchio,nov,"120,63",Rosso Verona,"147,30"
+Radicchio,dic,"114,86",Rosso Verona,"125,36"
+Radicchio,gen,"173,94",Tipo Chioggia Autunnale,"214,34"
+Radicchio,feb,"175,14",Tipo Chioggia Autunnale,"207,88"
+Radicchio,mar,"197,18",Tipo Chioggia Autunnale,"247,14"
+Radicchio,apr,n.d.,Tipo Chioggia Autunnale,n.d.
+Radicchio,mag,n.d.,Tipo Chioggia Autunnale,n.d.
+Radicchio,giu,n.d.,Tipo Chioggia Autunnale,n.d.
+Radicchio,lug,n.d.,Tipo Chioggia Autunnale,n.d.
+Radicchio,ago,n.d.,Tipo Chioggia Autunnale,n.d.
+Radicchio,set,n.d.,Tipo Chioggia Autunnale,"391,61"
+Radicchio,ott,"288,32",Tipo Chioggia Autunnale,"309,23"
+Radicchio,nov,"120,63",Tipo Chioggia Autunnale,"145,81"
+Radicchio,dic,"114,86",Tipo Chioggia Autunnale,"137,40"
+Radicchio,gen,"173,94",Tipo Chioggia Primaverile,n.d.
+Radicchio,feb,"175,14",Tipo Chioggia Primaverile,n.d.
+Radicchio,mar,"197,18",Tipo Chioggia Primaverile,n.d.
+Radicchio,apr,n.d.,Tipo Chioggia Primaverile,"164,41"
+Radicchio,mag,n.d.,Tipo Chioggia Primaverile,"188,33"
+Radicchio,giu,n.d.,Tipo Chioggia Primaverile,"102,06"
+Radicchio,lug,n.d.,Tipo Chioggia Primaverile,"122,30"
+Radicchio,ago,n.d.,Tipo Chioggia Primaverile,n.d.
+Radicchio,set,n.d.,Tipo Chioggia Primaverile,n.d.
+Radicchio,ott,"288,32",Tipo Chioggia Primaverile,n.d.
+Radicchio,nov,"120,63",Tipo Chioggia Primaverile,n.d.
+Radicchio,dic,"114,86",Tipo Chioggia Primaverile,n.d.
+Radicchio,gen,"173,94",Tipo Treviso Autunnale,"123,62"
+Radicchio,feb,"175,14",Tipo Treviso Autunnale,"126,04"
+Radicchio,mar,"197,18",Tipo Treviso Autunnale,n.d.
+Radicchio,apr,n.d.,Tipo Treviso Autunnale,n.d.
+Radicchio,mag,n.d.,Tipo Treviso Autunnale,n.d.
+Radicchio,giu,n.d.,Tipo Treviso Autunnale,n.d.
+Radicchio,lug,n.d.,Tipo Treviso Autunnale,n.d.
+Radicchio,ago,n.d.,Tipo Treviso Autunnale,n.d.
+Radicchio,set,n.d.,Tipo Treviso Autunnale,n.d.
+Radicchio,ott,"288,32",Tipo Treviso Autunnale,n.d.
+Radicchio,nov,"120,63",Tipo Treviso Autunnale,"75,29"
+Radicchio,dic,"114,86",Tipo Treviso Autunnale,"77,61"
+Radicchio,gen,"173,94",Tipo Treviso Primaverile,n.d.
+Radicchio,feb,"175,14",Tipo Treviso Primaverile,n.d.
+Radicchio,mar,"197,18",Tipo Treviso Primaverile,n.d.
+Radicchio,apr,n.d.,Tipo Treviso Primaverile,n.d.
+Radicchio,mag,n.d.,Tipo Treviso Primaverile,"139,52"
+Radicchio,giu,n.d.,Tipo Treviso Primaverile,"105,14"
+Radicchio,lug,n.d.,Tipo Treviso Primaverile,n.d.
+Radicchio,ago,n.d.,Tipo Treviso Primaverile,n.d.
+Radicchio,set,n.d.,Tipo Treviso Primaverile,n.d.
+Radicchio,ott,"288,32",Tipo Treviso Primaverile,n.d.
+Radicchio,nov,"120,63",Tipo Treviso Primaverile,n.d.
+Radicchio,dic,"114,86",Tipo Treviso Primaverile,n.d.
+Risone,gen,"174,99",Arborio E Volano,"126,32"
+Risone,feb,"169,33",Arborio E Volano,"115,73"
+Risone,mar,"170,43",Arborio E Volano,"112,14"
+Risone,apr,"171,33",Arborio E Volano,"111,31"
+Risone,mag,"177,25",Arborio E Volano,"111,73"
+Risone,giu,"191,11",Arborio E Volano,"131,87"
+Risone,lug,"184,55",Arborio E Volano,"154,15"
+Risone,ago,"204,36",Arborio E Volano,"162,78"
+Risone,set,"190,14",Arborio E Volano,"151,49"
+Risone,ott,"183,69",Arborio E Volano,"195,59"
+Risone,nov,"190,37",Arborio E Volano,"199,89"
+Risone,dic,"191,61",Arborio E Volano,"199,89"
+Risone,gen,"174,99","Balilla, Centauro E Sim.","215,79"
+Risone,feb,"169,33","Balilla, Centauro E Sim.","195,05"
+Risone,mar,"170,43","Balilla, Centauro E Sim.","195,05"
+Risone,apr,"171,33","Balilla, Centauro E Sim.","193,60"
+Risone,mag,"177,25","Balilla, Centauro E Sim.","185,59"
+Risone,giu,"191,11","Balilla, Centauro E Sim.","195,31"
+Risone,lug,"184,55","Balilla, Centauro E Sim.","194,26"
+Risone,ago,"204,36","Balilla, Centauro E Sim.","192,35"
+Risone,set,"190,14","Balilla, Centauro E Sim.","192,35"
+Risone,ott,"183,69","Balilla, Centauro E Sim.","192,51"
+Risone,nov,"190,37","Balilla, Centauro E Sim.","211,99"
+Risone,dic,"191,61","Balilla, Centauro E Sim.","228,97"
+Risone,gen,"174,99",Carnaroli E Sim.,"126,65"
+Risone,feb,"169,33",Carnaroli E Sim.,"118,80"
+Risone,mar,"170,43",Carnaroli E Sim.,"115,95"
+Risone,apr,"171,33",Carnaroli E Sim.,"113,63"
+Risone,mag,"177,25",Carnaroli E Sim.,"111,88"
+Risone,giu,"191,11",Carnaroli E Sim.,"122,83"
+Risone,lug,"184,55",Carnaroli E Sim.,"146,62"
+Risone,ago,"204,36",Carnaroli E Sim.,"152,16"
+Risone,set,"190,14",Carnaroli E Sim.,"140,74"
+Risone,ott,"183,69",Carnaroli E Sim.,"167,73"
+Risone,nov,"190,37",Carnaroli E Sim.,"199,41"
+Risone,dic,"191,61",Carnaroli E Sim.,"200,54"
+Risone,gen,"174,99","Indica, Thaibonnet E Sim.","187,37"
+Risone,feb,"169,33","Indica, Thaibonnet E Sim.","187,21"
+Risone,mar,"170,43","Indica, Thaibonnet E Sim.","190,22"
+Risone,apr,"171,33","Indica, Thaibonnet E Sim.","196,41"
+Risone,mag,"177,25","Indica, Thaibonnet E Sim.","213,25"
+Risone,giu,"191,11","Indica, Thaibonnet E Sim.","231,27"
+Risone,lug,"184,55","Indica, Thaibonnet E Sim.","231,37"
+Risone,ago,"204,36","Indica, Thaibonnet E Sim.","231,37"
+Risone,set,"190,14","Indica, Thaibonnet E Sim.","193,85"
+Risone,ott,"183,69","Indica, Thaibonnet E Sim.","191,78"
+Risone,nov,"190,37","Indica, Thaibonnet E Sim.","191,78"
+Risone,dic,"191,61","Indica, Thaibonnet E Sim.","190,74"
+Risone,gen,"174,99",Lido E Sim.,"184,16"
+Risone,feb,"169,33",Lido E Sim.,"165,83"
+Risone,mar,"170,43",Lido E Sim.,"165,83"
+Risone,apr,"171,33",Lido E Sim.,"158,60"
+Risone,mag,"177,25",Lido E Sim.,"161,62"
+Risone,giu,"191,11",Lido E Sim.,"193,04"
+Risone,lug,"184,55",Lido E Sim.,"206,33"
+Risone,ago,"204,36",Lido E Sim.,"206,33"
+Risone,set,"190,14",Lido E Sim.,"206,33"
+Risone,ott,"183,69",Lido E Sim.,"206,33"
+Risone,nov,"190,37",Lido E Sim.,"206,33"
+Risone,dic,"191,61",Lido E Sim.,"206,33"
+Risone,gen,"174,99",Loto E Sim.,"193,98"
+Risone,feb,"169,33",Loto E Sim.,"185,13"
+Risone,mar,"170,43",Loto E Sim.,"185,13"
+Risone,apr,"171,33",Loto E Sim.,"182,17"
+Risone,mag,"177,25",Loto E Sim.,"176,07"
+Risone,giu,"191,11",Loto E Sim.,"176,07"
+Risone,lug,"184,55",Loto E Sim.,"176,07"
+Risone,ago,"204,36",Loto E Sim.,"176,07"
+Risone,set,"190,14",Loto E Sim.,"176,07"
+Risone,ott,"183,69",Loto E Sim.,"169,25"
+Risone,nov,"190,37",Loto E Sim.,"169,25"
+Risone,dic,"191,61",Loto E Sim.,"169,25"
+Risone,gen,"174,99","Padano, Argo E Sim.","94,91"
+Risone,feb,"169,33","Padano, Argo E Sim.","94,91"
+Risone,mar,"170,43","Padano, Argo E Sim.","94,91"
+Risone,apr,"171,33","Padano, Argo E Sim.","94,91"
+Risone,mag,"177,25","Padano, Argo E Sim.","94,91"
+Risone,giu,"191,11","Padano, Argo E Sim.","94,91"
+Risone,lug,"184,55","Padano, Argo E Sim.","94,91"
+Risone,ago,"204,36","Padano, Argo E Sim.","94,91"
+Risone,set,"190,14","Padano, Argo E Sim.","94,91"
+Risone,ott,"183,69","Padano, Argo E Sim.","94,91"
+Risone,nov,"190,37","Padano, Argo E Sim.","94,91"
+Risone,dic,"191,61","Padano, Argo E Sim.","94,91"
+Risone,gen,"174,99","Ribe, Dardo, Luna Cl E Sim.","180,95"
+Risone,feb,"169,33","Ribe, Dardo, Luna Cl E Sim.","165,56"
+Risone,mar,"170,43","Ribe, Dardo, Luna Cl E Sim.","164,41"
+Risone,apr,"171,33","Ribe, Dardo, Luna Cl E Sim.","155,90"
+Risone,mag,"177,25","Ribe, Dardo, Luna Cl E Sim.","157,24"
+Risone,giu,"191,11","Ribe, Dardo, Luna Cl E Sim.","182,90"
+Risone,lug,"184,55","Ribe, Dardo, Luna Cl E Sim.","196,12"
+Risone,ago,"204,36","Ribe, Dardo, Luna Cl E Sim.","196,83"
+Risone,set,"190,14","Ribe, Dardo, Luna Cl E Sim.","196,83"
+Risone,ott,"183,69","Ribe, Dardo, Luna Cl E Sim.","152,58"
+Risone,nov,"190,37","Ribe, Dardo, Luna Cl E Sim.","167,17"
+Risone,dic,"191,61","Ribe, Dardo, Luna Cl E Sim.","167,17"
+Risone,gen,"174,99",Roma,"134,26"
+Risone,feb,"169,33",Roma,"123,33"
+Risone,mar,"170,43",Roma,"123,57"
+Risone,apr,"171,33",Roma,"122,11"
+Risone,mag,"177,25",Roma,"120,31"
+Risone,giu,"191,11",Roma,"134,39"
+Risone,lug,"184,55",Roma,"150,43"
+Risone,ago,"204,36",Roma,"150,72"
+Risone,set,"190,14",Roma,"150,02"
+Risone,ott,"183,69",Roma,"154,13"
+Risone,nov,"190,37",Roma,"162,09"
+Risone,dic,"191,61",Roma,"162,09"
+Risone,gen,"174,99",S.Andrea,"201,66"
+Risone,feb,"169,33",S.Andrea,"201,66"
+Risone,mar,"170,43",S.Andrea,"201,66"
+Risone,apr,"171,33",S.Andrea,"201,66"
+Risone,mag,"177,25",S.Andrea,"201,66"
+Risone,giu,"191,11",S.Andrea,"203,17"
+Risone,lug,"184,55",S.Andrea,"203,78"
+Risone,ago,"204,36",S.Andrea,"203,78"
+Risone,set,"190,14",S.Andrea,"203,78"
+Risone,ott,"183,69",S.Andrea,"199,17"
+Risone,nov,"190,37",S.Andrea,"199,17"
+Risone,dic,"191,61",S.Andrea,"199,17"
+Risone,gen,"174,99",Vialone Nano E Sim.,"195,43"
+Risone,feb,"169,33",Vialone Nano E Sim.,"217,49"
+Risone,mar,"170,43",Vialone Nano E Sim.,"238,23"
+Risone,apr,"171,33",Vialone Nano E Sim.,"258,67"
+Risone,mag,"177,25",Vialone Nano E Sim.,"270,02"
+Risone,giu,"191,11",Vialone Nano E Sim.,"271,79"
+Risone,lug,"184,55",Vialone Nano E Sim.,"277,09"
+Risone,ago,"204,36",Vialone Nano E Sim.,"278,60"
+Risone,set,"190,14",Vialone Nano E Sim.,"272,55"
+Risone,ott,"183,69",Vialone Nano E Sim.,"182,67"
+Risone,nov,"190,37",Vialone Nano E Sim.,"198,72"
+Risone,dic,"191,61",Vialone Nano E Sim.,"215,88"
+Sedani,gen,"188,53",Da Costa Verdi,"188,53"
+Sedani,feb,"145,24",Da Costa Verdi,"145,24"
+Sedani,mar,"81,46",Da Costa Verdi,"81,46"
+Sedani,apr,"236,48",Da Costa Verdi,"236,48"
+Sedani,mag,"303,88",Da Costa Verdi,"303,88"
+Sedani,giu,"232,75",Da Costa Verdi,"232,75"
+Sedani,lug,"232,75",Da Costa Verdi,"232,75"
+Sedani,ago,"331,44",Da Costa Verdi,"331,44"
+Sedani,set,"507,40",Da Costa Verdi,"507,40"
+Sedani,ott,"352,76",Da Costa Verdi,"352,76"
+Sedani,nov,"255,23",Da Costa Verdi,"255,23"
+Sedani,dic,"218,31",Da Costa Verdi,"218,31"
+Soia,gen,"132,19",-,"132,19"
+Soia,feb,"126,11",-,"126,11"
+Soia,mar,"124,54",-,"124,54"
+Soia,apr,"132,51",-,"132,51"
+Soia,mag,"137,86",-,"137,86"
+Soia,giu,"141,27",-,"141,27"
+Soia,lug,"136,72",-,"136,72"
+Soia,ago,"136,72",-,"136,72"
+Soia,set,"136,72",-,"136,72"
+Soia,ott,"124,40",-,"124,40"
+Soia,nov,"124,11",-,"124,11"
+Soia,dic,"120,68",-,"120,68"
+Spinaci,gen,"160,03",Ricci,"160,03"
+Spinaci,feb,"152,35",Ricci,"152,35"
+Spinaci,mar,"140,16",Ricci,"140,16"
+Spinaci,apr,"135,77",Ricci,"135,77"
+Spinaci,mag,"91,94",Ricci,"91,94"
+Spinaci,giu,n.d.,Ricci,n.d.
+Spinaci,lug,n.d.,Ricci,n.d.
+Spinaci,ago,n.d.,Ricci,n.d.
+Spinaci,set,n.d.,Ricci,n.d.
+Spinaci,ott,"176,80",Ricci,"176,80"
+Spinaci,nov,"153,31",Ricci,"153,31"
+Spinaci,dic,"159,88",Ricci,"159,88"
+Susine,gen,n.d.,Angeleno,n.d.
+Susine,feb,n.d.,Angeleno,n.d.
+Susine,mar,n.d.,Angeleno,n.d.
+Susine,apr,n.d.,Angeleno,n.d.
+Susine,mag,n.d.,Angeleno,n.d.
+Susine,giu,n.d.,Angeleno,n.d.
+Susine,lug,n.d.,Angeleno,n.d.
+Susine,ago,n.d.,Angeleno,n.d.
+Susine,set,"130,87",Angeleno,"130,95"
+Susine,ott,n.d.,Angeleno,n.d.
+Susine,nov,n.d.,Angeleno,n.d.
+Susine,dic,n.d.,Angeleno,n.d.
+Susine,gen,n.d.,Black Gruppo,n.d.
+Susine,feb,n.d.,Black Gruppo,n.d.
+Susine,mar,n.d.,Black Gruppo,n.d.
+Susine,apr,n.d.,Black Gruppo,n.d.
+Susine,mag,n.d.,Black Gruppo,n.d.
+Susine,giu,n.d.,Black Gruppo,n.d.
+Susine,lug,n.d.,Black Gruppo,"128,20"
+Susine,ago,n.d.,Black Gruppo,"104,72"
+Susine,set,"130,87",Black Gruppo,n.d.
+Susine,ott,n.d.,Black Gruppo,n.d.
+Susine,nov,n.d.,Black Gruppo,n.d.
+Susine,dic,n.d.,Black Gruppo,n.d.
+Susine,gen,n.d.,Goccia D'oro,n.d.
+Susine,feb,n.d.,Goccia D'oro,n.d.
+Susine,mar,n.d.,Goccia D'oro,n.d.
+Susine,apr,n.d.,Goccia D'oro,n.d.
+Susine,mag,n.d.,Goccia D'oro,n.d.
+Susine,giu,n.d.,Goccia D'oro,n.d.
+Susine,lug,n.d.,Goccia D'oro,"95,23"
+Susine,ago,n.d.,Goccia D'oro,n.d.
+Susine,set,"130,87",Goccia D'oro,n.d.
+Susine,ott,n.d.,Goccia D'oro,n.d.
+Susine,nov,n.d.,Goccia D'oro,n.d.
+Susine,dic,n.d.,Goccia D'oro,n.d.
+Susine,gen,n.d.,President,n.d.
+Susine,feb,n.d.,President,n.d.
+Susine,mar,n.d.,President,n.d.
+Susine,apr,n.d.,President,n.d.
+Susine,mag,n.d.,President,n.d.
+Susine,giu,n.d.,President,n.d.
+Susine,lug,n.d.,President,n.d.
+Susine,ago,n.d.,President,"126,09"
+Susine,set,"130,87",President,"127,48"
+Susine,ott,n.d.,President,n.d.
+Susine,nov,n.d.,President,n.d.
+Susine,dic,n.d.,President,n.d.
+Susine,gen,n.d.,Ruth Gerstetter,n.d.
+Susine,feb,n.d.,Ruth Gerstetter,n.d.
+Susine,mar,n.d.,Ruth Gerstetter,n.d.
+Susine,apr,n.d.,Ruth Gerstetter,n.d.
+Susine,mag,n.d.,Ruth Gerstetter,n.d.
+Susine,giu,n.d.,Ruth Gerstetter,"142,86"
+Susine,lug,n.d.,Ruth Gerstetter,"128,57"
+Susine,ago,n.d.,Ruth Gerstetter,n.d.
+Susine,set,"130,87",Ruth Gerstetter,n.d.
+Susine,ott,n.d.,Ruth Gerstetter,n.d.
+Susine,nov,n.d.,Ruth Gerstetter,n.d.
+Susine,dic,n.d.,Ruth Gerstetter,n.d.
+Susine,gen,n.d.,Stanley,n.d.
+Susine,feb,n.d.,Stanley,n.d.
+Susine,mar,n.d.,Stanley,n.d.
+Susine,apr,n.d.,Stanley,n.d.
+Susine,mag,n.d.,Stanley,n.d.
+Susine,giu,n.d.,Stanley,n.d.
+Susine,lug,n.d.,Stanley,n.d.
+Susine,ago,n.d.,Stanley,"166,73"
+Susine,set,"130,87",Stanley,n.d.
+Susine,ott,n.d.,Stanley,n.d.
+Susine,nov,n.d.,Stanley,n.d.
+Susine,dic,n.d.,Stanley,n.d.
+Susine,gen,n.d.,Varieta' Diverse,n.d.
+Susine,feb,n.d.,Varieta' Diverse,n.d.
+Susine,mar,n.d.,Varieta' Diverse,n.d.
+Susine,apr,n.d.,Varieta' Diverse,n.d.
+Susine,mag,n.d.,Varieta' Diverse,n.d.
+Susine,giu,n.d.,Varieta' Diverse,"105,78"
+Susine,lug,n.d.,Varieta' Diverse,"101,49"
+Susine,ago,n.d.,Varieta' Diverse,"100,29"
+Susine,set,"130,87",Varieta' Diverse,n.d.
+Susine,ott,n.d.,Varieta' Diverse,n.d.
+Susine,nov,n.d.,Varieta' Diverse,n.d.
+Susine,dic,n.d.,Varieta' Diverse,n.d.
+"Tabacco Greggio, Non Lavorato",gen,"244,25",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",feb,"244,25",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",mar,"244,25",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",apr,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",mag,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",giu,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",lug,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",ago,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",set,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",ott,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",nov,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",dic,"247,13",Dark Air Cured,"186,16"
+"Tabacco Greggio, Non Lavorato",gen,"244,25",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",feb,"244,25",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",mar,"244,25",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",apr,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",mag,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",giu,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",lug,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",ago,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",set,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",ott,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",nov,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",dic,"247,13",Fire Cured,"251,33"
+"Tabacco Greggio, Non Lavorato",gen,"244,25",Flue Cured,"266,61"
+"Tabacco Greggio, Non Lavorato",feb,"244,25",Flue Cured,"266,61"
+"Tabacco Greggio, Non Lavorato",mar,"244,25",Flue Cured,"266,61"
+"Tabacco Greggio, Non Lavorato",apr,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",mag,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",giu,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",lug,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",ago,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",set,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",ott,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",nov,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",dic,"247,13",Flue Cured,"272,07"
+"Tabacco Greggio, Non Lavorato",gen,"244,25",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",feb,"244,25",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",mar,"244,25",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",apr,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",mag,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",giu,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",lug,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",ago,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",set,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",ott,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",nov,"247,13",Light Air Cured,"225,14"
+"Tabacco Greggio, Non Lavorato",dic,"247,13",Light Air Cured,"225,14"
+Uva Da Tavola,gen,n.d.,Cardinal,n.d.
+Uva Da Tavola,feb,n.d.,Cardinal,n.d.
+Uva Da Tavola,mar,n.d.,Cardinal,n.d.
+Uva Da Tavola,apr,n.d.,Cardinal,n.d.
+Uva Da Tavola,mag,n.d.,Cardinal,n.d.
+Uva Da Tavola,giu,n.d.,Cardinal,n.d.
+Uva Da Tavola,lug,"132,21",Cardinal,"300,00"
+Uva Da Tavola,ago,"148,77",Cardinal,"300,00"
+Uva Da Tavola,set,"222,30",Cardinal,"300,00"
+Uva Da Tavola,ott,n.d.,Cardinal,n.d.
+Uva Da Tavola,nov,n.d.,Cardinal,n.d.
+Uva Da Tavola,dic,n.d.,Cardinal,n.d.
+Uva Da Tavola,gen,n.d.,Italia,n.d.
+Uva Da Tavola,feb,n.d.,Italia,n.d.
+Uva Da Tavola,mar,n.d.,Italia,n.d.
+Uva Da Tavola,apr,n.d.,Italia,n.d.
+Uva Da Tavola,mag,n.d.,Italia,n.d.
+Uva Da Tavola,giu,n.d.,Italia,n.d.
+Uva Da Tavola,lug,"132,21",Italia,n.d.
+Uva Da Tavola,ago,"148,77",Italia,"201,25"
+Uva Da Tavola,set,"222,30",Italia,"221,93"
+Uva Da Tavola,ott,n.d.,Italia,"320,44"
+Uva Da Tavola,nov,n.d.,Italia,"359,80"
+Uva Da Tavola,dic,n.d.,Italia,"360,96"
+Uva Da Tavola,gen,n.d.,Palieri,n.d.
+Uva Da Tavola,feb,n.d.,Palieri,n.d.
+Uva Da Tavola,mar,n.d.,Palieri,n.d.
+Uva Da Tavola,apr,n.d.,Palieri,n.d.
+Uva Da Tavola,mag,n.d.,Palieri,n.d.
+Uva Da Tavola,giu,n.d.,Palieri,n.d.
+Uva Da Tavola,lug,"132,21",Palieri,n.d.
+Uva Da Tavola,ago,"148,77",Palieri,"210,34"
+Uva Da Tavola,set,"222,30",Palieri,"199,84"
+Uva Da Tavola,ott,n.d.,Palieri,n.d.
+Uva Da Tavola,nov,n.d.,Palieri,n.d.
+Uva Da Tavola,dic,n.d.,Palieri,n.d.
+Uva Da Tavola,gen,n.d.,Red Globe,n.d.
+Uva Da Tavola,feb,n.d.,Red Globe,n.d.
+Uva Da Tavola,mar,n.d.,Red Globe,n.d.
+Uva Da Tavola,apr,n.d.,Red Globe,n.d.
+Uva Da Tavola,mag,n.d.,Red Globe,n.d.
+Uva Da Tavola,giu,n.d.,Red Globe,n.d.
+Uva Da Tavola,lug,"132,21",Red Globe,n.d.
+Uva Da Tavola,ago,"148,77",Red Globe,n.d.
+Uva Da Tavola,set,"222,30",Red Globe,"222,16"
+Uva Da Tavola,ott,n.d.,Red Globe,"351,21"
+Uva Da Tavola,nov,n.d.,Red Globe,"386,45"
+Uva Da Tavola,dic,n.d.,Red Globe,n.d.
+Uva Da Tavola,gen,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,feb,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,mar,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,apr,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,mag,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,giu,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,lug,"132,21",Varieta' Apirene,"129,89"
+Uva Da Tavola,ago,"148,77",Varieta' Apirene,"101,07"
+Uva Da Tavola,set,"222,30",Varieta' Apirene,"209,43"
+Uva Da Tavola,ott,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,nov,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,dic,n.d.,Varieta' Apirene,n.d.
+Uva Da Tavola,gen,n.d.,Vittoria,n.d.
+Uva Da Tavola,feb,n.d.,Vittoria,n.d.
+Uva Da Tavola,mar,n.d.,Vittoria,n.d.
+Uva Da Tavola,apr,n.d.,Vittoria,n.d.
+Uva Da Tavola,mag,n.d.,Vittoria,n.d.
+Uva Da Tavola,giu,n.d.,Vittoria,"196,38"
+Uva Da Tavola,lug,"132,21",Vittoria,"126,47"
+Uva Da Tavola,ago,"148,77",Vittoria,"101,14"
+Uva Da Tavola,set,"222,30",Vittoria,n.d.
+Uva Da Tavola,ott,n.d.,Vittoria,n.d.
+Uva Da Tavola,nov,n.d.,Vittoria,n.d.
+Uva Da Tavola,dic,n.d.,Vittoria,n.d.
+Vini Comuni Bianchi,gen,"197,34",12/13°,"234,28"
+Vini Comuni Bianchi,feb,"204,82",12/13°,"234,28"
+Vini Comuni Bianchi,mar,"215,28",12/13°,"247,16"
+Vini Comuni Bianchi,apr,"220,12",12/13°,"260,03"
+Vini Comuni Bianchi,mag,"220,55",12/13°,"260,03"
+Vini Comuni Bianchi,giu,"220,28",12/13°,"260,03"
+Vini Comuni Bianchi,lug,"219,86",12/13°,"260,03"
+Vini Comuni Bianchi,ago,"213,77",12/13°,"260,03"
+Vini Comuni Bianchi,set,"229,96",12/13°,"269,04"
+Vini Comuni Bianchi,ott,"216,95",12/13°,"296,07"
+Vini Comuni Bianchi,nov,"214,22",12/13°,"296,07"
+Vini Comuni Bianchi,dic,"215,24",12/13°,"296,07"
+Vini Comuni Bianchi,gen,"197,34",9/11°,"179,58"
+Vini Comuni Bianchi,feb,"204,82",9/11°,"190,66"
+Vini Comuni Bianchi,mar,"215,28",9/11°,"199,96"
+Vini Comuni Bianchi,apr,"220,12",9/11°,"200,94"
+Vini Comuni Bianchi,mag,"220,55",9/11°,"201,57"
+Vini Comuni Bianchi,giu,"220,28",9/11°,"201,17"
+Vini Comuni Bianchi,lug,"219,86",9/11°,"200,55"
+Vini Comuni Bianchi,ago,"213,77",9/11°,"191,54"
+Vini Comuni Bianchi,set,"229,96",9/11°,"199,44"
+Vini Comuni Bianchi,ott,"216,95",9/11°,"178,91"
+Vini Comuni Bianchi,nov,"214,22",9/11°,"174,87"
+Vini Comuni Bianchi,dic,"215,24",9/11°,"176,38"
+Vini Comuni Rossi E Rosati,gen,"214,07",12/13°,"235,68"
+Vini Comuni Rossi E Rosati,feb,"227,71",12/13°,"259,74"
+Vini Comuni Rossi E Rosati,mar,"235,27",12/13°,"275,78"
+Vini Comuni Rossi E Rosati,apr,"232,64",12/13°,"274,23"
+Vini Comuni Rossi E Rosati,mag,"231,47",12/13°,"273,71"
+Vini Comuni Rossi E Rosati,giu,"226,62",12/13°,"269,58"
+Vini Comuni Rossi E Rosati,lug,"221,92",12/13°,"263,12"
+Vini Comuni Rossi E Rosati,ago,"196,47",12/13°,"220,60"
+Vini Comuni Rossi E Rosati,set,"190,29",12/13°,"212,18"
+Vini Comuni Rossi E Rosati,ott,"193,21",12/13°,"216,96"
+Vini Comuni Rossi E Rosati,nov,"209,03",12/13°,"239,20"
+Vini Comuni Rossi E Rosati,dic,"210,70",12/13°,"235,52"
+Vini Comuni Rossi E Rosati,gen,"214,07",9/11°,"187,03"
+Vini Comuni Rossi E Rosati,feb,"227,71",9/11°,"187,62"
+Vini Comuni Rossi E Rosati,mar,"235,27",9/11°,"184,59"
+Vini Comuni Rossi E Rosati,apr,"232,64",9/11°,"180,60"
+Vini Comuni Rossi E Rosati,mag,"231,47",9/11°,"178,61"
+Vini Comuni Rossi E Rosati,giu,"226,62",9/11°,"172,86"
+Vini Comuni Rossi E Rosati,lug,"221,92",9/11°,"170,35"
+Vini Comuni Rossi E Rosati,ago,"196,47",9/11°,"166,28"
+Vini Comuni Rossi E Rosati,set,"190,29",9/11°,"162,89"
+Vini Comuni Rossi E Rosati,ott,"193,21",9/11°,"163,48"
+Vini Comuni Rossi E Rosati,nov,"209,03",9/11°,"171,28"
+Vini Comuni Rossi E Rosati,dic,"210,70",9/11°,"179,64"
+Vini Doc-Docg Bianchi,gen,"154,46",Alcamo,"135,20"
+Vini Doc-Docg Bianchi,feb,"154,76",Alcamo,"135,20"
+Vini Doc-Docg Bianchi,mar,"155,13",Alcamo,"135,20"
+Vini Doc-Docg Bianchi,apr,"155,27",Alcamo,"144,52"
+Vini Doc-Docg Bianchi,mag,"153,88",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,giu,"152,56",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,lug,"152,21",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,ago,"151,58",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,set,"152,39",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,ott,"155,49",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,nov,"156,55",Alcamo,"153,85"
+Vini Doc-Docg Bianchi,dic,"156,68",Alcamo,"158,51"
+Vini Doc-Docg Bianchi,gen,"154,46",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,feb,"154,76",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,mar,"155,13",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,apr,"155,27",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,mag,"153,88",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,giu,"152,56",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,lug,"152,21",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,ago,"151,58",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,set,"152,39",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,ott,"155,49",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,nov,"156,55",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,dic,"156,68",Alto Adige Chardonnay,"123,23"
+Vini Doc-Docg Bianchi,gen,"154,46",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,feb,"154,76",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,mar,"155,13",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,apr,"155,27",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,mag,"153,88",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,giu,"152,56",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,lug,"152,21",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,ago,"151,58",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,set,"152,39",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,ott,"155,49",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,nov,"156,55",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,dic,"156,68",Alto Adige Pinot Grigio,"114,20"
+Vini Doc-Docg Bianchi,gen,"154,46",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,feb,"154,76",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,mar,"155,13",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,apr,"155,27",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,mag,"153,88",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,giu,"152,56",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,lug,"152,21",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,ago,"151,58",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,set,"152,39",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,ott,"155,49",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,nov,"156,55",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,dic,"156,68",Alto Adige Terlano Pinot Bianco,"146,82"
+Vini Doc-Docg Bianchi,gen,"154,46",Asti Moscato,"118,33"
+Vini Doc-Docg Bianchi,feb,"154,76",Asti Moscato,"118,33"
+Vini Doc-Docg Bianchi,mar,"155,13",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,apr,"155,27",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,mag,"153,88",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,giu,"152,56",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,lug,"152,21",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,ago,"151,58",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,set,"152,39",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,ott,"155,49",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,nov,"156,55",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,dic,"156,68",Asti Moscato,"120,00"
+Vini Doc-Docg Bianchi,gen,"154,46",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,feb,"154,76",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,mar,"155,13",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,apr,"155,27",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,mag,"153,88",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,giu,"152,56",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,lug,"152,21",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,ago,"151,58",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,set,"152,39",Bianco Di Custoza,"135,52"
+Vini Doc-Docg Bianchi,ott,"155,49",Bianco Di Custoza,"150,57"
+Vini Doc-Docg Bianchi,nov,"156,55",Bianco Di Custoza,"150,57"
+Vini Doc-Docg Bianchi,dic,"156,68",Bianco Di Custoza,"150,57"
+Vini Doc-Docg Bianchi,gen,"154,46",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,feb,"154,76",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,mar,"155,13",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,apr,"155,27",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,mag,"153,88",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,giu,"152,56",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,lug,"152,21",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,ago,"151,58",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,set,"152,39",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,ott,"155,49",Castelli Romani,"213,22"
+Vini Doc-Docg Bianchi,nov,"156,55",Castelli Romani,"247,33"
+Vini Doc-Docg Bianchi,dic,"156,68",Castelli Romani,"247,33"
+Vini Doc-Docg Bianchi,gen,"154,46",Ciro',"93,10"
+Vini Doc-Docg Bianchi,feb,"154,76",Ciro',"93,10"
+Vini Doc-Docg Bianchi,mar,"155,13",Ciro',"97,75"
+Vini Doc-Docg Bianchi,apr,"155,27",Ciro',"99,08"
+Vini Doc-Docg Bianchi,mag,"153,88",Ciro',"99,08"
+Vini Doc-Docg Bianchi,giu,"152,56",Ciro',"99,08"
+Vini Doc-Docg Bianchi,lug,"152,21",Ciro',"99,08"
+Vini Doc-Docg Bianchi,ago,"151,58",Ciro',"99,08"
+Vini Doc-Docg Bianchi,set,"152,39",Ciro',"99,08"
+Vini Doc-Docg Bianchi,ott,"155,49",Ciro',"99,08"
+Vini Doc-Docg Bianchi,nov,"156,55",Ciro',"99,08"
+Vini Doc-Docg Bianchi,dic,"156,68",Ciro',"103,73"
+Vini Doc-Docg Bianchi,gen,"154,46",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,feb,"154,76",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,mar,"155,13",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,apr,"155,27",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,mag,"153,88",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,giu,"152,56",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,lug,"152,21",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,ago,"151,58",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,set,"152,39",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,ott,"155,49",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,nov,"156,55",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,dic,"156,68",Colli Albani,"119,86"
+Vini Doc-Docg Bianchi,gen,"154,46",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,feb,"154,76",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,mar,"155,13",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,apr,"155,27",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,mag,"153,88",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,giu,"152,56",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,lug,"152,21",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,ago,"151,58",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,set,"152,39",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,ott,"155,49",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,nov,"156,55",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,dic,"156,68",Colli Lanuvini,"148,06"
+Vini Doc-Docg Bianchi,gen,"154,46",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,feb,"154,76",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,mar,"155,13",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,apr,"155,27",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,mag,"153,88",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,giu,"152,56",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,lug,"152,21",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,ago,"151,58",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,set,"152,39",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,ott,"155,49",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,nov,"156,55",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,dic,"156,68",Colli Piacentini Malvasia,"108,29"
+Vini Doc-Docg Bianchi,gen,"154,46",Conegliano Valdobbiadene - Prosecco,"185,80"
+Vini Doc-Docg Bianchi,feb,"154,76",Conegliano Valdobbiadene - Prosecco,"185,80"
+Vini Doc-Docg Bianchi,mar,"155,13",Conegliano Valdobbiadene - Prosecco,"182,39"
+Vini Doc-Docg Bianchi,apr,"155,27",Conegliano Valdobbiadene - Prosecco,"182,39"
+Vini Doc-Docg Bianchi,mag,"153,88",Conegliano Valdobbiadene - Prosecco,"177,27"
+Vini Doc-Docg Bianchi,giu,"152,56",Conegliano Valdobbiadene - Prosecco,"170,45"
+Vini Doc-Docg Bianchi,lug,"152,21",Conegliano Valdobbiadene - Prosecco,"165,34"
+Vini Doc-Docg Bianchi,ago,"151,58",Conegliano Valdobbiadene - Prosecco,"165,34"
+Vini Doc-Docg Bianchi,set,"152,39",Conegliano Valdobbiadene - Prosecco,"168,75"
+Vini Doc-Docg Bianchi,ott,"155,49",Conegliano Valdobbiadene - Prosecco,"170,45"
+Vini Doc-Docg Bianchi,nov,"156,55",Conegliano Valdobbiadene - Prosecco,"170,45"
+Vini Doc-Docg Bianchi,dic,"156,68",Conegliano Valdobbiadene - Prosecco,"170,45"
+Vini Doc-Docg Bianchi,gen,"154,46",Cortese Dell' Alto Monferrato,"190,55"
+Vini Doc-Docg Bianchi,feb,"154,76",Cortese Dell' Alto Monferrato,"190,55"
+Vini Doc-Docg Bianchi,mar,"155,13",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,apr,"155,27",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,mag,"153,88",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,giu,"152,56",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,lug,"152,21",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,ago,"151,58",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,set,"152,39",Cortese Dell' Alto Monferrato,"199,62"
+Vini Doc-Docg Bianchi,ott,"155,49",Cortese Dell' Alto Monferrato,"195,09"
+Vini Doc-Docg Bianchi,nov,"156,55",Cortese Dell' Alto Monferrato,"195,09"
+Vini Doc-Docg Bianchi,dic,"156,68",Cortese Dell' Alto Monferrato,"195,09"
+Vini Doc-Docg Bianchi,gen,"154,46",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,feb,"154,76",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,mar,"155,13",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,apr,"155,27",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,mag,"153,88",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,giu,"152,56",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,lug,"152,21",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,ago,"151,58",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,set,"152,39",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,ott,"155,49",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,nov,"156,55",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,dic,"156,68",Cortese Di Gavi,"184,86"
+Vini Doc-Docg Bianchi,gen,"154,46",Frascati,"174,23"
+Vini Doc-Docg Bianchi,feb,"154,76",Frascati,"174,23"
+Vini Doc-Docg Bianchi,mar,"155,13",Frascati,"174,23"
+Vini Doc-Docg Bianchi,apr,"155,27",Frascati,"174,23"
+Vini Doc-Docg Bianchi,mag,"153,88",Frascati,"174,23"
+Vini Doc-Docg Bianchi,giu,"152,56",Frascati,"174,23"
+Vini Doc-Docg Bianchi,lug,"152,21",Frascati,"172,49"
+Vini Doc-Docg Bianchi,ago,"151,58",Frascati,"172,49"
+Vini Doc-Docg Bianchi,set,"152,39",Frascati,"172,49"
+Vini Doc-Docg Bianchi,ott,"155,49",Frascati,"172,49"
+Vini Doc-Docg Bianchi,nov,"156,55",Frascati,"169,87"
+Vini Doc-Docg Bianchi,dic,"156,68",Frascati,"169,87"
+Vini Doc-Docg Bianchi,gen,"154,46",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,feb,"154,76",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,mar,"155,13",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,apr,"155,27",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,mag,"153,88",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,giu,"152,56",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,lug,"152,21",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,ago,"151,58",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,set,"152,39",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,ott,"155,49",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,nov,"156,55",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,dic,"156,68",Friuli Grave Chardonnay,"221,40"
+Vini Doc-Docg Bianchi,gen,"154,46",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,feb,"154,76",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,mar,"155,13",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,apr,"155,27",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,mag,"153,88",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,giu,"152,56",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,lug,"152,21",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,ago,"151,58",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,set,"152,39",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,ott,"155,49",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,nov,"156,55",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,dic,"156,68",Friuli Grave Friulano,"176,27"
+Vini Doc-Docg Bianchi,gen,"154,46",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,feb,"154,76",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,mar,"155,13",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,apr,"155,27",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,mag,"153,88",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,giu,"152,56",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,lug,"152,21",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,ago,"151,58",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,set,"152,39",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,ott,"155,49",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,nov,"156,55",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,dic,"156,68",Friuli Grave Pinot Bianco,"156,35"
+Vini Doc-Docg Bianchi,gen,"154,46",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,feb,"154,76",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,mar,"155,13",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,apr,"155,27",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,mag,"153,88",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,giu,"152,56",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,lug,"152,21",Friuli Grave Pinot Grigio,"154,84"
+Vini Doc-Docg Bianchi,ago,"151,58",Friuli Grave Pinot Grigio,"149,31"
+Vini Doc-Docg Bianchi,set,"152,39",Friuli Grave Pinot Grigio,"149,31"
+Vini Doc-Docg Bianchi,ott,"155,49",Friuli Grave Pinot Grigio,"149,31"
+Vini Doc-Docg Bianchi,nov,"156,55",Friuli Grave Pinot Grigio,"149,31"
+Vini Doc-Docg Bianchi,dic,"156,68",Friuli Grave Pinot Grigio,"149,31"
+Vini Doc-Docg Bianchi,gen,"154,46",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,feb,"154,76",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,mar,"155,13",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,apr,"155,27",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,mag,"153,88",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,giu,"152,56",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,lug,"152,21",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,ago,"151,58",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,set,"152,39",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,ott,"155,49",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,nov,"156,55",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,dic,"156,68",Gambellara,"98,77"
+Vini Doc-Docg Bianchi,gen,"154,46",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,feb,"154,76",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,mar,"155,13",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,apr,"155,27",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,mag,"153,88",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,giu,"152,56",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,lug,"152,21",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,ago,"151,58",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,set,"152,39",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,ott,"155,49",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,nov,"156,55",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,dic,"156,68",Locorotondo,"147,83"
+Vini Doc-Docg Bianchi,gen,"154,46",Marino,"238,97"
+Vini Doc-Docg Bianchi,feb,"154,76",Marino,"238,97"
+Vini Doc-Docg Bianchi,mar,"155,13",Marino,"238,97"
+Vini Doc-Docg Bianchi,apr,"155,27",Marino,"238,97"
+Vini Doc-Docg Bianchi,mag,"153,88",Marino,"238,97"
+Vini Doc-Docg Bianchi,giu,"152,56",Marino,"238,97"
+Vini Doc-Docg Bianchi,lug,"152,21",Marino,"238,97"
+Vini Doc-Docg Bianchi,ago,"151,58",Marino,"238,97"
+Vini Doc-Docg Bianchi,set,"152,39",Marino,"238,97"
+Vini Doc-Docg Bianchi,ott,"155,49",Marino,"238,97"
+Vini Doc-Docg Bianchi,nov,"156,55",Marino,"238,97"
+Vini Doc-Docg Bianchi,dic,"156,68",Marino,"238,97"
+Vini Doc-Docg Bianchi,gen,"154,46",Nuragus Di Cagliari,"214,48"
+Vini Doc-Docg Bianchi,feb,"154,76",Nuragus Di Cagliari,"214,48"
+Vini Doc-Docg Bianchi,mar,"155,13",Nuragus Di Cagliari,"214,48"
+Vini Doc-Docg Bianchi,apr,"155,27",Nuragus Di Cagliari,"214,48"
+Vini Doc-Docg Bianchi,mag,"153,88",Nuragus Di Cagliari,"237,06"
+Vini Doc-Docg Bianchi,giu,"152,56",Nuragus Di Cagliari,"237,06"
+Vini Doc-Docg Bianchi,lug,"152,21",Nuragus Di Cagliari,"237,06"
+Vini Doc-Docg Bianchi,ago,"151,58",Nuragus Di Cagliari,"225,77"
+Vini Doc-Docg Bianchi,set,"152,39",Nuragus Di Cagliari,"225,77"
+Vini Doc-Docg Bianchi,ott,"155,49",Nuragus Di Cagliari,"225,77"
+Vini Doc-Docg Bianchi,nov,"156,55",Nuragus Di Cagliari,"225,77"
+Vini Doc-Docg Bianchi,dic,"156,68",Nuragus Di Cagliari,"225,77"
+Vini Doc-Docg Bianchi,gen,"154,46",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,feb,"154,76",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,mar,"155,13",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,apr,"155,27",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,mag,"153,88",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,giu,"152,56",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,lug,"152,21",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,ago,"151,58",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,set,"152,39",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,ott,"155,49",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,nov,"156,55",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,dic,"156,68",Oltrepo' Pavese Chardonnay,"143,65"
+Vini Doc-Docg Bianchi,gen,"154,46",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,feb,"154,76",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,mar,"155,13",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,apr,"155,27",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,mag,"153,88",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,giu,"152,56",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,lug,"152,21",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,ago,"151,58",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,set,"152,39",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,ott,"155,49",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,nov,"156,55",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,dic,"156,68",Oltrepo' Pavese Moscato,"99,41"
+Vini Doc-Docg Bianchi,gen,"154,46",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,feb,"154,76",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,mar,"155,13",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,apr,"155,27",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,mag,"153,88",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,giu,"152,56",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,lug,"152,21",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,ago,"151,58",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,set,"152,39",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,ott,"155,49",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,nov,"156,55",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,dic,"156,68",Oltrepo' Pavese Pinot Nero,"151,01"
+Vini Doc-Docg Bianchi,gen,"154,46",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,feb,"154,76",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,mar,"155,13",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,apr,"155,27",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,mag,"153,88",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,giu,"152,56",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,lug,"152,21",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,ago,"151,58",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,set,"152,39",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,ott,"155,49",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,nov,"156,55",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,dic,"156,68",Oltrepo' Pavese Riesling,"141,78"
+Vini Doc-Docg Bianchi,gen,"154,46",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,feb,"154,76",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,mar,"155,13",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,apr,"155,27",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,mag,"153,88",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,giu,"152,56",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,lug,"152,21",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,ago,"151,58",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,set,"152,39",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,ott,"155,49",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,nov,"156,55",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,dic,"156,68",Orvieto,"141,59"
+Vini Doc-Docg Bianchi,gen,"154,46",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,feb,"154,76",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,mar,"155,13",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,apr,"155,27",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,mag,"153,88",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,giu,"152,56",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,lug,"152,21",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,ago,"151,58",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,set,"152,39",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,ott,"155,49",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,nov,"156,55",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,dic,"156,68",Orvieto Classico,"126,67"
+Vini Doc-Docg Bianchi,gen,"154,46",Per Marsala Doc,"152,51"
+Vini Doc-Docg Bianchi,feb,"154,76",Per Marsala Doc,"152,51"
+Vini Doc-Docg Bianchi,mar,"155,13",Per Marsala Doc,"152,51"
+Vini Doc-Docg Bianchi,apr,"155,27",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,mag,"153,88",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,giu,"152,56",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,lug,"152,21",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,ago,"151,58",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,set,"152,39",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,ott,"155,49",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,nov,"156,55",Per Marsala Doc,"161,22"
+Vini Doc-Docg Bianchi,dic,"156,68",Per Marsala Doc,"169,93"
+Vini Doc-Docg Bianchi,gen,"154,46",Piemonte Moscato,"86,96"
+Vini Doc-Docg Bianchi,feb,"154,76",Piemonte Moscato,"86,96"
+Vini Doc-Docg Bianchi,mar,"155,13",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,apr,"155,27",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,mag,"153,88",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,giu,"152,56",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,lug,"152,21",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,ago,"151,58",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,set,"152,39",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,ott,"155,49",Piemonte Moscato,"128,26"
+Vini Doc-Docg Bianchi,nov,"156,55",Piemonte Moscato,"134,78"
+Vini Doc-Docg Bianchi,dic,"156,68",Piemonte Moscato,"134,78"
+Vini Doc-Docg Bianchi,gen,"154,46",Prosecco,"151,83"
+Vini Doc-Docg Bianchi,feb,"154,76",Prosecco,"151,83"
+Vini Doc-Docg Bianchi,mar,"155,13",Prosecco,"151,83"
+Vini Doc-Docg Bianchi,apr,"155,27",Prosecco,"151,83"
+Vini Doc-Docg Bianchi,mag,"153,88",Prosecco,"146,06"
+Vini Doc-Docg Bianchi,giu,"152,56",Prosecco,"144,14"
+Vini Doc-Docg Bianchi,lug,"152,21",Prosecco,"144,14"
+Vini Doc-Docg Bianchi,ago,"151,58",Prosecco,"144,14"
+Vini Doc-Docg Bianchi,set,"152,39",Prosecco,"146,06"
+Vini Doc-Docg Bianchi,ott,"155,49",Prosecco,"147,21"
+Vini Doc-Docg Bianchi,nov,"156,55",Prosecco,"147,21"
+Vini Doc-Docg Bianchi,dic,"156,68",Prosecco,"147,21"
+Vini Doc-Docg Bianchi,gen,"154,46",Roero Arneis,"145,56"
+Vini Doc-Docg Bianchi,feb,"154,76",Roero Arneis,"145,56"
+Vini Doc-Docg Bianchi,mar,"155,13",Roero Arneis,"143,36"
+Vini Doc-Docg Bianchi,apr,"155,27",Roero Arneis,"143,36"
+Vini Doc-Docg Bianchi,mag,"153,88",Roero Arneis,"143,36"
+Vini Doc-Docg Bianchi,giu,"152,56",Roero Arneis,"143,36"
+Vini Doc-Docg Bianchi,lug,"152,21",Roero Arneis,"143,36"
+Vini Doc-Docg Bianchi,ago,"151,58",Roero Arneis,"141,15"
+Vini Doc-Docg Bianchi,set,"152,39",Roero Arneis,"132,33"
+Vini Doc-Docg Bianchi,ott,"155,49",Roero Arneis,"132,33"
+Vini Doc-Docg Bianchi,nov,"156,55",Roero Arneis,"123,51"
+Vini Doc-Docg Bianchi,dic,"156,68",Roero Arneis,"123,51"
+Vini Doc-Docg Bianchi,gen,"154,46",San Severo,"130,43"
+Vini Doc-Docg Bianchi,feb,"154,76",San Severo,"130,43"
+Vini Doc-Docg Bianchi,mar,"155,13",San Severo,"130,43"
+Vini Doc-Docg Bianchi,apr,"155,27",San Severo,"130,43"
+Vini Doc-Docg Bianchi,mag,"153,88",San Severo,"130,43"
+Vini Doc-Docg Bianchi,giu,"152,56",San Severo,"130,43"
+Vini Doc-Docg Bianchi,lug,"152,21",San Severo,"130,43"
+Vini Doc-Docg Bianchi,ago,"151,58",San Severo,"130,43"
+Vini Doc-Docg Bianchi,set,"152,39",San Severo,"130,43"
+Vini Doc-Docg Bianchi,ott,"155,49",San Severo,"147,83"
+Vini Doc-Docg Bianchi,nov,"156,55",San Severo,"147,83"
+Vini Doc-Docg Bianchi,dic,"156,68",San Severo,"147,83"
+Vini Doc-Docg Bianchi,gen,"154,46",Sannio Solopaca,"142,86"
+Vini Doc-Docg Bianchi,feb,"154,76",Sannio Solopaca,"142,86"
+Vini Doc-Docg Bianchi,mar,"155,13",Sannio Solopaca,"161,90"
+Vini Doc-Docg Bianchi,apr,"155,27",Sannio Solopaca,"161,90"
+Vini Doc-Docg Bianchi,mag,"153,88",Sannio Solopaca,"161,90"
+Vini Doc-Docg Bianchi,giu,"152,56",Sannio Solopaca,"161,90"
+Vini Doc-Docg Bianchi,lug,"152,21",Sannio Solopaca,"157,14"
+Vini Doc-Docg Bianchi,ago,"151,58",Sannio Solopaca,"157,14"
+Vini Doc-Docg Bianchi,set,"152,39",Sannio Solopaca,"157,14"
+Vini Doc-Docg Bianchi,ott,"155,49",Sannio Solopaca,"157,14"
+Vini Doc-Docg Bianchi,nov,"156,55",Sannio Solopaca,"157,14"
+Vini Doc-Docg Bianchi,dic,"156,68",Sannio Solopaca,"157,14"
+Vini Doc-Docg Bianchi,gen,"154,46",Soave,"126,98"
+Vini Doc-Docg Bianchi,feb,"154,76",Soave,"126,98"
+Vini Doc-Docg Bianchi,mar,"155,13",Soave,"126,98"
+Vini Doc-Docg Bianchi,apr,"155,27",Soave,"126,98"
+Vini Doc-Docg Bianchi,mag,"153,88",Soave,"126,98"
+Vini Doc-Docg Bianchi,giu,"152,56",Soave,"126,98"
+Vini Doc-Docg Bianchi,lug,"152,21",Soave,"126,98"
+Vini Doc-Docg Bianchi,ago,"151,58",Soave,"126,98"
+Vini Doc-Docg Bianchi,set,"152,39",Soave,"126,98"
+Vini Doc-Docg Bianchi,ott,"155,49",Soave,"142,86"
+Vini Doc-Docg Bianchi,nov,"156,55",Soave,"142,86"
+Vini Doc-Docg Bianchi,dic,"156,68",Soave,"142,86"
+Vini Doc-Docg Bianchi,gen,"154,46",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,feb,"154,76",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,mar,"155,13",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,apr,"155,27",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,mag,"153,88",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,giu,"152,56",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,lug,"152,21",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,ago,"151,58",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,set,"152,39",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,ott,"155,49",Soave Classico,"137,55"
+Vini Doc-Docg Bianchi,nov,"156,55",Soave Classico,"150,05"
+Vini Doc-Docg Bianchi,dic,"156,68",Soave Classico,"150,05"
+Vini Doc-Docg Bianchi,gen,"154,46",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,feb,"154,76",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,mar,"155,13",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,apr,"155,27",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,mag,"153,88",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,giu,"152,56",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,lug,"152,21",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,ago,"151,58",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,set,"152,39",Trebbiano D'abruzzo,"169,50"
+Vini Doc-Docg Bianchi,ott,"155,49",Trebbiano D'abruzzo,"217,92"
+Vini Doc-Docg Bianchi,nov,"156,55",Trebbiano D'abruzzo,"217,92"
+Vini Doc-Docg Bianchi,dic,"156,68",Trebbiano D'abruzzo,"217,92"
+Vini Doc-Docg Bianchi,gen,"154,46",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,feb,"154,76",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,mar,"155,13",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,apr,"155,27",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,mag,"153,88",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,giu,"152,56",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,lug,"152,21",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,ago,"151,58",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,set,"152,39",Trentino Chardonnay,"176,15"
+Vini Doc-Docg Bianchi,ott,"155,49",Trentino Chardonnay,"193,76"
+Vini Doc-Docg Bianchi,nov,"156,55",Trentino Chardonnay,"193,76"
+Vini Doc-Docg Bianchi,dic,"156,68",Trentino Chardonnay,"193,76"
+Vini Doc-Docg Bianchi,gen,"154,46",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,feb,"154,76",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,mar,"155,13",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,apr,"155,27",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,mag,"153,88",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,giu,"152,56",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,lug,"152,21",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,ago,"151,58",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,set,"152,39",Trentino Muller Thurgau,"133,33"
+Vini Doc-Docg Bianchi,ott,"155,49",Trentino Muller Thurgau,"137,50"
+Vini Doc-Docg Bianchi,nov,"156,55",Trentino Muller Thurgau,"137,50"
+Vini Doc-Docg Bianchi,dic,"156,68",Trentino Muller Thurgau,"137,50"
+Vini Doc-Docg Bianchi,gen,"154,46",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,feb,"154,76",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,mar,"155,13",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,apr,"155,27",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,mag,"153,88",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,giu,"152,56",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,lug,"152,21",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,ago,"151,58",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,set,"152,39",Trentino Pinot Bianco,"184,95"
+Vini Doc-Docg Bianchi,ott,"155,49",Trentino Pinot Bianco,"202,57"
+Vini Doc-Docg Bianchi,nov,"156,55",Trentino Pinot Bianco,"202,57"
+Vini Doc-Docg Bianchi,dic,"156,68",Trentino Pinot Bianco,"202,57"
+Vini Doc-Docg Bianchi,gen,"154,46",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,feb,"154,76",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,mar,"155,13",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,apr,"155,27",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,mag,"153,88",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,giu,"152,56",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,lug,"152,21",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,ago,"151,58",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,set,"152,39",Trentino Pinot Grigio,"129,64"
+Vini Doc-Docg Bianchi,ott,"155,49",Trentino Pinot Grigio,"139,13"
+Vini Doc-Docg Bianchi,nov,"156,55",Trentino Pinot Grigio,"139,13"
+Vini Doc-Docg Bianchi,dic,"156,68",Trentino Pinot Grigio,"139,13"
+Vini Doc-Docg Bianchi,gen,"154,46",Trento,"167,09"
+Vini Doc-Docg Bianchi,feb,"154,76",Trento,"167,09"
+Vini Doc-Docg Bianchi,mar,"155,13",Trento,"167,09"
+Vini Doc-Docg Bianchi,apr,"155,27",Trento,"167,09"
+Vini Doc-Docg Bianchi,mag,"153,88",Trento,"167,09"
+Vini Doc-Docg Bianchi,giu,"152,56",Trento,"167,09"
+Vini Doc-Docg Bianchi,lug,"152,21",Trento,"167,09"
+Vini Doc-Docg Bianchi,ago,"151,58",Trento,"167,09"
+Vini Doc-Docg Bianchi,set,"152,39",Trento,"167,09"
+Vini Doc-Docg Bianchi,ott,"155,49",Trento,"179,24"
+Vini Doc-Docg Bianchi,nov,"156,55",Trento,"179,24"
+Vini Doc-Docg Bianchi,dic,"156,68",Trento,"179,24"
+Vini Doc-Docg Bianchi,gen,"154,46",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,feb,"154,76",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,mar,"155,13",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,apr,"155,27",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,mag,"153,88",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,giu,"152,56",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,lug,"152,21",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,ago,"151,58",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,set,"152,39",Trento Pinot Nero (Bs),"209,62"
+Vini Doc-Docg Bianchi,ott,"155,49",Trento Pinot Nero (Bs),"221,77"
+Vini Doc-Docg Bianchi,nov,"156,55",Trento Pinot Nero (Bs),"221,77"
+Vini Doc-Docg Bianchi,dic,"156,68",Trento Pinot Nero (Bs),"221,77"
+Vini Doc-Docg Bianchi,gen,"154,46",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,feb,"154,76",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,mar,"155,13",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,apr,"155,27",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,mag,"153,88",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,giu,"152,56",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,lug,"152,21",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,ago,"151,58",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,set,"152,39",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,ott,"155,49",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,nov,"156,55",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,dic,"156,68",Valdadige Pinot Grigio,"162,50"
+Vini Doc-Docg Bianchi,gen,"154,46",Velletri,"190,36"
+Vini Doc-Docg Bianchi,feb,"154,76",Velletri,"190,36"
+Vini Doc-Docg Bianchi,mar,"155,13",Velletri,"190,36"
+Vini Doc-Docg Bianchi,apr,"155,27",Velletri,"190,36"
+Vini Doc-Docg Bianchi,mag,"153,88",Velletri,"190,36"
+Vini Doc-Docg Bianchi,giu,"152,56",Velletri,"190,36"
+Vini Doc-Docg Bianchi,lug,"152,21",Velletri,"190,36"
+Vini Doc-Docg Bianchi,ago,"151,58",Velletri,"190,36"
+Vini Doc-Docg Bianchi,set,"152,39",Velletri,"190,36"
+Vini Doc-Docg Bianchi,ott,"155,49",Velletri,"190,36"
+Vini Doc-Docg Bianchi,nov,"156,55",Velletri,"190,36"
+Vini Doc-Docg Bianchi,dic,"156,68",Velletri,"190,36"
+Vini Doc-Docg Bianchi,gen,"154,46",Verdicchio Dei Castelli Di Jesi,"181,48"
+Vini Doc-Docg Bianchi,feb,"154,76",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,mar,"155,13",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,apr,"155,27",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,mag,"153,88",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,giu,"152,56",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,lug,"152,21",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,ago,"151,58",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,set,"152,39",Verdicchio Dei Castelli Di Jesi,"183,70"
+Vini Doc-Docg Bianchi,ott,"155,49",Verdicchio Dei Castelli Di Jesi,"177,78"
+Vini Doc-Docg Bianchi,nov,"156,55",Verdicchio Dei Castelli Di Jesi,"177,78"
+Vini Doc-Docg Bianchi,dic,"156,68",Verdicchio Dei Castelli Di Jesi,"177,78"
+Vini Doc-Docg Bianchi,gen,"154,46",Verdicchio Dei Castelli Di Jesi Classico,"228,00"
+Vini Doc-Docg Bianchi,feb,"154,76",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,mar,"155,13",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,apr,"155,27",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,mag,"153,88",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,giu,"152,56",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,lug,"152,21",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,ago,"151,58",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,set,"152,39",Verdicchio Dei Castelli Di Jesi Classico,"236,00"
+Vini Doc-Docg Bianchi,ott,"155,49",Verdicchio Dei Castelli Di Jesi Classico,"220,00"
+Vini Doc-Docg Bianchi,nov,"156,55",Verdicchio Dei Castelli Di Jesi Classico,"220,00"
+Vini Doc-Docg Bianchi,dic,"156,68",Verdicchio Dei Castelli Di Jesi Classico,"220,00"
+Vini Doc-Docg Bianchi,gen,"154,46",Vermentino Di Sardegna,"265,42"
+Vini Doc-Docg Bianchi,feb,"154,76",Vermentino Di Sardegna,"265,42"
+Vini Doc-Docg Bianchi,mar,"155,13",Vermentino Di Sardegna,"286,65"
+Vini Doc-Docg Bianchi,apr,"155,27",Vermentino Di Sardegna,"286,65"
+Vini Doc-Docg Bianchi,mag,"153,88",Vermentino Di Sardegna,"339,74"
+Vini Doc-Docg Bianchi,giu,"152,56",Vermentino Di Sardegna,"339,74"
+Vini Doc-Docg Bianchi,lug,"152,21",Vermentino Di Sardegna,"350,35"
+Vini Doc-Docg Bianchi,ago,"151,58",Vermentino Di Sardegna,"318,50"
+Vini Doc-Docg Bianchi,set,"152,39",Vermentino Di Sardegna,"318,50"
+Vini Doc-Docg Bianchi,ott,"155,49",Vermentino Di Sardegna,"318,50"
+Vini Doc-Docg Bianchi,nov,"156,55",Vermentino Di Sardegna,"318,50"
+Vini Doc-Docg Bianchi,dic,"156,68",Vermentino Di Sardegna,"318,50"
+Vini Doc-Docg Bianchi,gen,"154,46",Vernaccia Di San Gimignano,"135,30"
+Vini Doc-Docg Bianchi,feb,"154,76",Vernaccia Di San Gimignano,"144,18"
+Vini Doc-Docg Bianchi,mar,"155,13",Vernaccia Di San Gimignano,"144,18"
+Vini Doc-Docg Bianchi,apr,"155,27",Vernaccia Di San Gimignano,"144,18"
+Vini Doc-Docg Bianchi,mag,"153,88",Vernaccia Di San Gimignano,"148,61"
+Vini Doc-Docg Bianchi,giu,"152,56",Vernaccia Di San Gimignano,"144,18"
+Vini Doc-Docg Bianchi,lug,"152,21",Vernaccia Di San Gimignano,"144,18"
+Vini Doc-Docg Bianchi,ago,"151,58",Vernaccia Di San Gimignano,"144,18"
+Vini Doc-Docg Bianchi,set,"152,39",Vernaccia Di San Gimignano,"130,87"
+Vini Doc-Docg Bianchi,ott,"155,49",Vernaccia Di San Gimignano,"130,87"
+Vini Doc-Docg Bianchi,nov,"156,55",Vernaccia Di San Gimignano,"130,87"
+Vini Doc-Docg Bianchi,dic,"156,68",Vernaccia Di San Gimignano,"130,87"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Alto Adige Lago Di Caldaro Classico,"162,64"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Alto Adige Schiava,"158,02"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Barbaresco,"327,51"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Barbaresco,"327,51"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Barbaresco,"327,51"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Barbaresco,"327,51"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Barbaresco,"327,51"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Barbaresco,"327,51"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Barbaresco,"325,11"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Barbaresco,"320,29"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Barbaresco,"296,21"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Barbaresco,"296,21"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Barbaresco,"281,76"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Barbaresco,"281,76"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Barbera D'alba,"255,92"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Barbera D'alba,"255,92"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Barbera D'alba,"251,18"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Barbera D'alba,"251,18"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Barbera D'alba,"251,18"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Barbera D'alba,"251,18"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Barbera D'alba,"241,71"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Barbera D'alba,"222,75"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Barbera D'alba,"203,79"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Barbera D'alba,"203,79"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Barbera D'alba,"194,31"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Barbera D'alba,"194,31"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Barbera D'asti,"218,18"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Barbera D'asti,"221,59"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Barbera Del Monferrato,"199,36"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Barbera Del Monferrato,"203,19"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Bardolino,"162,98"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Bardolino Classico,"168,37"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Bardolino Classico,"161,36"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Bardolino Classico,"161,36"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Barolo,"263,03"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Barolo,"263,03"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Barolo,"263,03"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Barolo,"260,11"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Barolo,"257,18"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Barolo,"257,18"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Barolo,"251,34"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Barolo,"244,03"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Barolo,"233,80"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Barolo,"233,80"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Barolo,"230,88"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Barolo,"230,88"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Brunello Di Montalcino,"171,80"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Brunello Di Montalcino,"169,21"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Brunello Di Montalcino,"169,21"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Brunello Di Montalcino,"169,21"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Brunello Di Montalcino,"169,21"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Brunello Di Montalcino,"169,21"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Cannonau Di Sardegna,"154,14"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Cannonau Di Sardegna,"154,14"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Cannonau Di Sardegna,"163,77"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Cannonau Di Sardegna,"163,77"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Cannonau Di Sardegna,"163,77"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Cannonau Di Sardegna,"158,95"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Castel Del Monte,"144,00"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Castelli Romani,"243,39"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Castelli Romani,"199,14"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Castelli Romani,"199,14"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Chianti,"152,78"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Chianti,"161,11"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Chianti,"163,89"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Chianti,"163,89"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Chianti,"158,33"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Chianti,"158,33"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Chianti,"150,00"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Chianti,"141,67"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Chianti,"141,67"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Chianti,"138,89"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Chianti,"138,89"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Chianti,"138,89"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Chianti Classico,"214,55"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Chianti Classico,"222,87"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Chianti Classico,"224,53"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Chianti Classico,"224,53"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Chianti Classico,"226,19"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Chianti Colli Senesi,"158,33"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Chianti Colli Senesi,"166,67"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Chianti Colli Senesi,"166,67"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Chianti Colli Senesi,"166,67"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Chianti Colli Senesi,"166,67"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Chianti Colli Senesi,"166,67"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Chianti Colli Senesi,"161,11"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Chianti Colli Senesi,"152,78"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Chianti Colli Senesi,"152,78"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Chianti Colli Senesi,"152,78"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Chianti Colli Senesi,"152,78"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Chianti Colli Senesi,"152,78"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Ciro' Classico,"98,72"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Ciro' Classico,"98,72"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Ciro' Classico,"99,06"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Ciro' Classico,"99,72"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Ciro' Classico,"102,37"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Ciro' Rosato,"97,25"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Ciro' Rosato,"97,25"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Ciro' Rosato,"98,58"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Ciro' Rosato,"99,25"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Ciro' Rosato,"99,25"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Ciro' Rosato,"99,58"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Ciro' Rosato,"99,58"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Ciro' Rosato,"99,58"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Ciro' Rosato,"99,58"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Ciro' Rosato,"99,25"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Ciro' Rosato,"99,25"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Ciro' Rosato,"100,24"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Ciro' Rosso,"94,79"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Ciro' Rosso,"94,79"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Ciro' Rosso,"96,79"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Ciro' Rosso,"97,46"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Ciro' Rosso,"97,46"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Ciro' Rosso,"97,12"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Dolcetto Alba/Diano,"180,88"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Dolcetto Alba/Diano,"180,88"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Dolcetto Alba/Diano,"180,88"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Dolcetto Alba/Diano,"180,88"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Dolcetto Alba/Diano,"176,12"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Dolcetto Alba/Diano,"176,12"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Dolcetto Alba/Diano,"161,84"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Dolcetto Alba/Diano,"161,84"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Dolcetto Alba/Diano,"161,84"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Dolcetto Alba/Diano,"161,84"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Dolcetto Alba/Diano,"161,84"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Dolcetto Alba/Diano,"161,84"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Friuli Grave Cabernet Franc Sauvignon,"323,08"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Friuli Grave Merlot,"282,35"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Grignolino D'asti,"135,18"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Grignolino D'asti,"135,18"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Grignolino D'asti,"113,83"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Grignolino D'asti,"118,58"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Grignolino D'asti,"118,58"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Grignolino D'asti,"118,58"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Gutturnio,"117,19"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Lago Di Caldaro,"166,47"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Lambrusco Grasparossa,"130,81"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Lambrusco Salamino Santa Croce,"138,53"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Lambrusco Sorbara,"192,02"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Lambrusco Sorbara,"201,33"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Lambrusco Sorbara,"201,33"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Lambrusco Sorbara,"201,33"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Lambrusco Sorbara,"189,69"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Lambrusco Sorbara,"189,69"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Lambrusco Sorbara,"180,38"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Lambrusco Sorbara,"180,38"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Lambrusco Sorbara,"180,38"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Lambrusco Sorbara,"180,38"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Lambrusco Sorbara,"180,38"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Lambrusco Sorbara,"180,38"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Melissa,"88,20"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Monica Di Sardegna,"119,65"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Monica Di Sardegna,"119,65"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Monica Di Sardegna,"119,65"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Monica Di Sardegna,"119,65"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Monica Di Sardegna,"138,54"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Monica Di Sardegna,"138,54"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Monica Di Sardegna,"138,54"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Monica Di Sardegna,"125,95"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Monica Di Sardegna,"125,95"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Monica Di Sardegna,"125,95"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Monica Di Sardegna,"125,95"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Monica Di Sardegna,"125,95"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Montepulciano D'abruzzo,"181,93"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Nebbiolo D'alba,"228,49"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Nebbiolo D'alba,"228,49"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Nebbiolo D'alba,"228,49"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Nebbiolo D'alba,"219,70"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Nebbiolo D'alba,"219,70"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Nebbiolo D'alba,"219,70"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Nebbiolo D'alba,"219,70"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Nebbiolo D'alba,"206,52"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Nebbiolo D'alba,"188,94"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Nebbiolo D'alba,"171,37"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Nebbiolo D'alba,"171,37"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Nebbiolo D'alba,"171,37"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Oltrepo' Pavese Barbera,"144,48"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Oltrepo' Pavese Bonarda,"181,94"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Piave Merlot,"232,87"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Piemonte Barbera,"232,10"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Piemonte Barbera,"237,04"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Piemonte Barbera,"217,28"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Piemonte Barbera,"207,41"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Piemonte Barbera,"207,41"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Piemonte Barbera,"207,41"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Reggiano Lambrusco,"134,58"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Reggiano Lambrusco,"139,43"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Rosso Conero,"100,00"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Rosso Piceno,"195,24"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Rosso Piceno,"195,24"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Rosso Piceno,"195,24"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Rosso Piceno,"195,24"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Rosso Piceno,"185,71"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Rosso Piceno,"185,71"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Rosso Piceno,"185,71"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Rosso Piceno,"185,71"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Rosso Piceno,"185,71"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Rosso Piceno,"180,95"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Rosso Piceno,"180,95"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Rosso Piceno,"180,95"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Sannio Solopaca,"148,91"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Sannio Solopaca,"148,91"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Sannio Solopaca,"166,42"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Teroldego Rotaliano,"126,76"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Trentino Merlot,"155,60"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Valpolicella,"231,53"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Valpolicella,"209,48"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Valpolicella,"209,48"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Valpolicella,"209,48"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Valpolicella,"209,48"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Valpolicella Classico,"221,86"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Valpolicella Classico,"192,92"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Valpolicella Classico,"192,92"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Valpolicella Classico,"192,92"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Valpolicella Classico,"192,92"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Velleteri,"121,93"
+Vini Doc-Docg Rossi E Rosati,gen,"180,79",Vino Nobile Di Montepulciano,"124,35"
+Vini Doc-Docg Rossi E Rosati,feb,"183,40",Vino Nobile Di Montepulciano,"128,50"
+Vini Doc-Docg Rossi E Rosati,mar,"183,49",Vino Nobile Di Montepulciano,"128,50"
+Vini Doc-Docg Rossi E Rosati,apr,"183,39",Vino Nobile Di Montepulciano,"128,50"
+Vini Doc-Docg Rossi E Rosati,mag,"182,29",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,giu,"182,29",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,lug,"180,13",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,ago,"177,85",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,set,"175,70",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,ott,"174,76",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,nov,"174,02",Vino Nobile Di Montepulciano,"132,64"
+Vini Doc-Docg Rossi E Rosati,dic,"174,02",Vino Nobile Di Montepulciano,"132,64"
+Vini Igt Bianchi,gen,"140,97",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,feb,"141,76",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,mar,"141,94",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,apr,"141,84",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,mag,"141,57",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,giu,"141,18",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,lug,"141,24",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,ago,"140,84",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,set,"140,31",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,ott,"139,59",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,nov,"140,39",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,dic,"140,99",Castelfranco Emilia,"181,49"
+Vini Igt Bianchi,gen,"140,97",Emilia Lambrusco Bianco,"142,50"
+Vini Igt Bianchi,feb,"141,76",Emilia Lambrusco Bianco,"149,58"
+Vini Igt Bianchi,mar,"141,94",Emilia Lambrusco Bianco,"147,56"
+Vini Igt Bianchi,apr,"141,84",Emilia Lambrusco Bianco,"145,54"
+Vini Igt Bianchi,mag,"141,57",Emilia Lambrusco Bianco,"140,15"
+Vini Igt Bianchi,giu,"141,18",Emilia Lambrusco Bianco,"132,06"
+Vini Igt Bianchi,lug,"141,24",Emilia Lambrusco Bianco,"133,75"
+Vini Igt Bianchi,ago,"140,84",Emilia Lambrusco Bianco,"138,80"
+Vini Igt Bianchi,set,"140,31",Emilia Lambrusco Bianco,"136,10"
+Vini Igt Bianchi,ott,"139,59",Emilia Lambrusco Bianco,"133,41"
+Vini Igt Bianchi,nov,"140,39",Emilia Lambrusco Bianco,"144,19"
+Vini Igt Bianchi,dic,"140,99",Emilia Lambrusco Bianco,"149,58"
+Vini Igt Bianchi,gen,"140,97",Emilia Trebbiano,"183,59"
+Vini Igt Bianchi,feb,"141,76",Emilia Trebbiano,"186,06"
+Vini Igt Bianchi,mar,"141,94",Emilia Trebbiano,"186,06"
+Vini Igt Bianchi,apr,"141,84",Emilia Trebbiano,"186,06"
+Vini Igt Bianchi,mag,"141,57",Emilia Trebbiano,"188,04"
+Vini Igt Bianchi,giu,"141,18",Emilia Trebbiano,"195,94"
+Vini Igt Bianchi,lug,"141,24",Emilia Trebbiano,"195,94"
+Vini Igt Bianchi,ago,"140,84",Emilia Trebbiano,"195,94"
+Vini Igt Bianchi,set,"140,31",Emilia Trebbiano,"186,06"
+Vini Igt Bianchi,ott,"139,59",Emilia Trebbiano,"172,23"
+Vini Igt Bianchi,nov,"140,39",Emilia Trebbiano,"181,94"
+Vini Igt Bianchi,dic,"140,99",Emilia Trebbiano,"191,00"
+Vini Igt Bianchi,gen,"140,97",Lazio,"295,35"
+Vini Igt Bianchi,feb,"141,76",Lazio,"295,35"
+Vini Igt Bianchi,mar,"141,94",Lazio,"302,33"
+Vini Igt Bianchi,apr,"141,84",Lazio,"302,91"
+Vini Igt Bianchi,mag,"141,57",Lazio,"304,65"
+Vini Igt Bianchi,giu,"141,18",Lazio,"306,98"
+Vini Igt Bianchi,lug,"141,24",Lazio,"305,81"
+Vini Igt Bianchi,ago,"140,84",Lazio,"286,05"
+Vini Igt Bianchi,set,"140,31",Lazio,"262,79"
+Vini Igt Bianchi,ott,"139,59",Lazio,"251,63"
+Vini Igt Bianchi,nov,"140,39",Lazio,"248,84"
+Vini Igt Bianchi,dic,"140,99",Lazio,"248,84"
+Vini Igt Bianchi,gen,"140,97",Veneto Chardonnay,"148,78"
+Vini Igt Bianchi,feb,"141,76",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,mar,"141,94",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,apr,"141,84",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,mag,"141,57",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,giu,"141,18",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,lug,"141,24",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,ago,"140,84",Veneto Chardonnay,"153,32"
+Vini Igt Bianchi,set,"140,31",Veneto Chardonnay,"161,27"
+Vini Igt Bianchi,ott,"139,59",Veneto Chardonnay,"159,00"
+Vini Igt Bianchi,nov,"140,39",Veneto Chardonnay,"159,85"
+Vini Igt Bianchi,dic,"140,99",Veneto Chardonnay,"162,41"
+Vini Igt Bianchi,gen,"140,97",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,feb,"141,76",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,mar,"141,94",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,apr,"141,84",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,mag,"141,57",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,giu,"141,18",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,lug,"141,24",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,ago,"140,84",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,set,"140,31",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,ott,"139,59",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,nov,"140,39",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,dic,"140,99",Veneto Pinot Bianco,"171,60"
+Vini Igt Bianchi,gen,"140,97",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,feb,"141,76",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,mar,"141,94",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,apr,"141,84",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,mag,"141,57",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,giu,"141,18",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,lug,"141,24",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,ago,"140,84",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,set,"140,31",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,ott,"139,59",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,nov,"140,39",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,dic,"140,99",Veneto Pinot Grigio,"131,71"
+Vini Igt Bianchi,gen,"140,97",Veneto Verduzzo,"141,36"
+Vini Igt Bianchi,feb,"141,76",Veneto Verduzzo,"142,20"
+Vini Igt Bianchi,mar,"141,94",Veneto Verduzzo,"143,32"
+Vini Igt Bianchi,apr,"141,84",Veneto Verduzzo,"143,32"
+Vini Igt Bianchi,mag,"141,57",Veneto Verduzzo,"143,32"
+Vini Igt Bianchi,giu,"141,18",Veneto Verduzzo,"143,32"
+Vini Igt Bianchi,lug,"141,24",Veneto Verduzzo,"143,32"
+Vini Igt Bianchi,ago,"140,84",Veneto Verduzzo,"143,32"
+Vini Igt Bianchi,set,"140,31",Veneto Verduzzo,"142,20"
+Vini Igt Bianchi,ott,"139,59",Veneto Verduzzo,"142,87"
+Vini Igt Bianchi,nov,"140,39",Veneto Verduzzo,"146,12"
+Vini Igt Bianchi,dic,"140,99",Veneto Verduzzo,"147,80"
+Vini Igt Rossi E Rosati,gen,"162,93",Emilia Lambrusco,"142,62"
+Vini Igt Rossi E Rosati,feb,"163,82",Emilia Lambrusco,"142,62"
+Vini Igt Rossi E Rosati,mar,"166,91",Emilia Lambrusco,"142,62"
+Vini Igt Rossi E Rosati,apr,"167,36",Emilia Lambrusco,"142,62"
+Vini Igt Rossi E Rosati,mag,"166,49",Emilia Lambrusco,"139,74"
+Vini Igt Rossi E Rosati,giu,"163,76",Emilia Lambrusco,"131,81"
+Vini Igt Rossi E Rosati,lug,"163,16",Emilia Lambrusco,"131,09"
+Vini Igt Rossi E Rosati,ago,"161,29",Emilia Lambrusco,"126,48"
+Vini Igt Rossi E Rosati,set,"162,08",Emilia Lambrusco,"125,33"
+Vini Igt Rossi E Rosati,ott,"161,78",Emilia Lambrusco,"125,33"
+Vini Igt Rossi E Rosati,nov,"162,50",Emilia Lambrusco,"130,73"
+Vini Igt Rossi E Rosati,dic,"162,96",Emilia Lambrusco,"132,53"
+Vini Igt Rossi E Rosati,gen,"162,93",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,feb,"163,82",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,mar,"166,91",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,apr,"167,36",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,mag,"166,49",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,giu,"163,76",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,lug,"163,16",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,ago,"161,29",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,set,"162,08",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,ott,"161,78",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,nov,"162,50",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,dic,"162,96",Emilia Lambrusco (Ex Modena),"191,99"
+Vini Igt Rossi E Rosati,gen,"162,93",Lazio,"235,42"
+Vini Igt Rossi E Rosati,feb,"163,82",Lazio,"235,42"
+Vini Igt Rossi E Rosati,mar,"166,91",Lazio,"222,92"
+Vini Igt Rossi E Rosati,apr,"167,36",Lazio,"222,92"
+Vini Igt Rossi E Rosati,mag,"166,49",Lazio,"222,92"
+Vini Igt Rossi E Rosati,giu,"163,76",Lazio,"222,92"
+Vini Igt Rossi E Rosati,lug,"163,16",Lazio,"218,23"
+Vini Igt Rossi E Rosati,ago,"161,29",Lazio,"204,17"
+Vini Igt Rossi E Rosati,set,"162,08",Lazio,"202,08"
+Vini Igt Rossi E Rosati,ott,"161,78",Lazio,"195,83"
+Vini Igt Rossi E Rosati,nov,"162,50",Lazio,"195,83"
+Vini Igt Rossi E Rosati,dic,"162,96",Lazio,"195,83"
+Vini Igt Rossi E Rosati,gen,"162,93",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,feb,"163,82",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,mar,"166,91",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,apr,"167,36",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,mag,"166,49",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,giu,"163,76",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,lug,"163,16",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,ago,"161,29",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,set,"162,08",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,ott,"161,78",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,nov,"162,50",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,dic,"162,96",Provincia Di Pavia Barbera,"108,33"
+Vini Igt Rossi E Rosati,gen,"162,93",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,feb,"163,82",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,mar,"166,91",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,apr,"167,36",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,mag,"166,49",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,giu,"163,76",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,lug,"163,16",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,ago,"161,29",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,set,"162,08",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,ott,"161,78",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,nov,"162,50",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,dic,"162,96",Ravenna Sangiovese,"250,51"
+Vini Igt Rossi E Rosati,gen,"162,93",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,feb,"163,82",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,mar,"166,91",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,apr,"167,36",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,mag,"166,49",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,giu,"163,76",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,lug,"163,16",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,ago,"161,29",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,set,"162,08",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,ott,"161,78",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,nov,"162,50",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,dic,"162,96",Salento Rosato,"170,03"
+Vini Igt Rossi E Rosati,gen,"162,93",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,feb,"163,82",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,mar,"166,91",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,apr,"167,36",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,mag,"166,49",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,giu,"163,76",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,lug,"163,16",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,ago,"161,29",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,set,"162,08",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,ott,"161,78",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,nov,"162,50",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,dic,"162,96",Salento Rosso,"188,04"
+Vini Igt Rossi E Rosati,gen,"162,93",Toscana Sangiovese,"191,36"
+Vini Igt Rossi E Rosati,feb,"163,82",Toscana Sangiovese,"200,38"
+Vini Igt Rossi E Rosati,mar,"166,91",Toscana Sangiovese,"221,34"
+Vini Igt Rossi E Rosati,apr,"167,36",Toscana Sangiovese,"224,14"
+Vini Igt Rossi E Rosati,mag,"166,49",Toscana Sangiovese,"223,47"
+Vini Igt Rossi E Rosati,giu,"163,76",Toscana Sangiovese,"220,78"
+Vini Igt Rossi E Rosati,lug,"163,16",Toscana Sangiovese,"219,10"
+Vini Igt Rossi E Rosati,ago,"161,29",Toscana Sangiovese,"216,52"
+Vini Igt Rossi E Rosati,set,"162,08",Toscana Sangiovese,"212,93"
+Vini Igt Rossi E Rosati,ott,"161,78",Toscana Sangiovese,"210,69"
+Vini Igt Rossi E Rosati,nov,"162,50",Toscana Sangiovese,"207,33"
+Vini Igt Rossi E Rosati,dic,"162,96",Toscana Sangiovese,"207,33"
+Vini Igt Rossi E Rosati,gen,"162,93",Veneto Merlot,"174,52"
+Vini Igt Rossi E Rosati,feb,"163,82",Veneto Merlot,"168,11"
+Vini Igt Rossi E Rosati,mar,"166,91",Veneto Merlot,"168,11"
+Vini Igt Rossi E Rosati,apr,"167,36",Veneto Merlot,"168,11"
+Vini Igt Rossi E Rosati,mag,"166,49",Veneto Merlot,"168,11"
+Vini Igt Rossi E Rosati,giu,"163,76",Veneto Merlot,"165,71"
+Vini Igt Rossi E Rosati,lug,"163,16",Veneto Merlot,"164,91"
+Vini Igt Rossi E Rosati,ago,"161,29",Veneto Merlot,"164,91"
+Vini Igt Rossi E Rosati,set,"162,08",Veneto Merlot,"184,12"
+Vini Igt Rossi E Rosati,ott,"161,78",Veneto Merlot,"186,04"
+Vini Igt Rossi E Rosati,nov,"162,50",Veneto Merlot,"184,12"
+Vini Igt Rossi E Rosati,dic,"162,96",Veneto Merlot,"184,12"
+Vini Igt Rossi E Rosati,gen,"162,93",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,feb,"163,82",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,mar,"166,91",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,apr,"167,36",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,mag,"166,49",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,giu,"163,76",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,lug,"163,16",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,ago,"161,29",Veneto Raboso,"180,80"
+Vini Igt Rossi E Rosati,set,"162,08",Veneto Raboso,"187,50"
+Vini Igt Rossi E Rosati,ott,"161,78",Veneto Raboso,"187,50"
+Vini Igt Rossi E Rosati,nov,"162,50",Veneto Raboso,"186,16"
+Vini Igt Rossi E Rosati,dic,"162,96",Veneto Raboso,"184,82"
+Zucchine,gen,n.d.,Chiare,n.d.
+Zucchine,feb,n.d.,Chiare,n.d.
+Zucchine,mar,n.d.,Chiare,n.d.
+Zucchine,apr,n.d.,Chiare,n.d.
+Zucchine,mag,"231,54",Chiare,"246,57"
+Zucchine,giu,"191,17",Chiare,"167,07"
+Zucchine,lug,"160,80",Chiare,"132,41"
+Zucchine,ago,"171,21",Chiare,"111,66"
+Zucchine,set,"306,71",Chiare,"252,18"
+Zucchine,ott,n.d.,Chiare,n.d.
+Zucchine,nov,n.d.,Chiare,n.d.
+Zucchine,dic,n.d.,Chiare,n.d.
+Zucchine,gen,n.d.,Romanesche,n.d.
+Zucchine,feb,n.d.,Romanesche,n.d.
+Zucchine,mar,n.d.,Romanesche,n.d.
+Zucchine,apr,n.d.,Romanesche,n.d.
+Zucchine,mag,"231,54",Romanesche,n.d.
+Zucchine,giu,"191,17",Romanesche,"227,91"
+Zucchine,lug,"160,80",Romanesche,"212,30"
+Zucchine,ago,"171,21",Romanesche,"244,77"
+Zucchine,set,"306,71",Romanesche,"359,04"
+Zucchine,ott,n.d.,Romanesche,n.d.
+Zucchine,nov,n.d.,Romanesche,n.d.
+Zucchine,dic,n.d.,Romanesche,n.d.
+Zucchine,gen,n.d.,Scure,n.d.
+Zucchine,feb,n.d.,Scure,n.d.
+Zucchine,mar,n.d.,Scure,n.d.
+Zucchine,apr,n.d.,Scure,n.d.
+Zucchine,mag,"231,54",Scure,"221,61"
+Zucchine,giu,"191,17",Scure,"180,81"
+Zucchine,lug,"160,80",Scure,"144,10"
+Zucchine,ago,"171,21",Scure,"155,03"
+Zucchine,set,"306,71",Scure,"282,66"
+Zucchine,ott,n.d.,Scure,"345,59"
+Zucchine,nov,n.d.,Scure,n.d.
+Zucchine,dic,n.d.,Scure,n.d.
+Zucchine Serra,gen,"226,39",Chiare,"272,63"
+Zucchine Serra,feb,"126,80",Chiare,"112,00"
+Zucchine Serra,mar,"90,16",Chiare,"82,89"
+Zucchine Serra,apr,"96,74",Chiare,"103,16"
+Zucchine Serra,mag,"106,20",Chiare,"116,42"
+Zucchine Serra,giu,n.d.,Chiare,n.d.
+Zucchine Serra,lug,n.d.,Chiare,n.d.
+Zucchine Serra,ago,n.d.,Chiare,n.d.
+Zucchine Serra,set,n.d.,Chiare,n.d.
+Zucchine Serra,ott,n.d.,Chiare,n.d.
+Zucchine Serra,nov,"175,32",Chiare,"191,58"
+Zucchine Serra,dic,"162,34",Chiare,"140,00"
+Zucchine Serra,gen,"226,39",Romanesche,"165,74"
+Zucchine Serra,feb,"126,80",Romanesche,"127,49"
+Zucchine Serra,mar,"90,16",Romanesche,"95,62"
+Zucchine Serra,apr,"96,74",Romanesche,"87,12"
+Zucchine Serra,mag,"106,20",Romanesche,"86,69"
+Zucchine Serra,giu,n.d.,Romanesche,n.d.
+Zucchine Serra,lug,n.d.,Romanesche,n.d.
+Zucchine Serra,ago,n.d.,Romanesche,n.d.
+Zucchine Serra,set,n.d.,Romanesche,n.d.
+Zucchine Serra,ott,n.d.,Romanesche,"138,54"
+Zucchine Serra,nov,"175,32",Romanesche,"150,86"
+Zucchine Serra,dic,"162,34",Romanesche,"176,36"
+Zucchine Serra,gen,"226,39",Scure,"240,81"
+Zucchine Serra,feb,"126,80",Scure,"140,90"
+Zucchine Serra,mar,"90,16",Scure,"91,96"
+Zucchine Serra,apr,"96,74",Scure,"99,95"
+Zucchine Serra,mag,"106,20",Scure,"115,50"
+Zucchine Serra,giu,n.d.,Scure,n.d.
+Zucchine Serra,lug,n.d.,Scure,n.d.
+Zucchine Serra,ago,n.d.,Scure,n.d.
+Zucchine Serra,set,n.d.,Scure,n.d.
+Zucchine Serra,ott,n.d.,Scure,"223,67"
+Zucchine Serra,nov,"175,32",Scure,"183,53"
+Zucchine Serra,dic,"162,34",Scure,"170,67"
+

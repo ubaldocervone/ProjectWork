@@ -1,0 +1,38 @@
+﻿txtTitolo,StottoTitolo,StottoTitolo2,StottoTitolo3
+La sintesi degli scambi con l’estero dell’agroalimentare,Paese/area: Mondo,Periodo riferimento: febbraio 2024,Unità di misura: valore
+
+Gruppo_Ismea1_Cod,Textbox31,Textbox3,Import_in_valore,Textbox4,Export_in_valore,Textbox5,Saldo,Textbox32,Textbox34,exportMesePrecedente,Textbox10,Textbox24,TotaleSaldo,Textbox35,Textbox1
+Ortaggi freschi e trasformati,FEBBRAIO 2024,Mio €,"630,9",Mio €,"377,7",Mio €,"253,2",var. vs anno prec.,"4,7","13,8","5.644,5","5.222,3","422,2","10,8","6,7"
+Frutta fresca e trasformata,FEBBRAIO 2024,Mio €,"412,8",Mio €,"378,4",Mio €,"34,4",var. vs anno prec.,"12,2","23,2","5.644,5","5.222,3","422,2","10,8","6,7"
+Oli e grassi,FEBBRAIO 2024,Mio €,"358,1",Mio €,"515,6",Mio €,"-157,4",var. vs anno prec.,"37,4","18,0","5.644,5","5.222,3","422,2","10,8","6,7"
+Vino e mosti,FEBBRAIO 2024,Mio €,"610,4",Mio €,"45,0",Mio €,"565,4",var. vs anno prec.,"7,6","45,7","5.644,5","5.222,3","422,2","10,8","6,7"
+Animali e carni,FEBBRAIO 2024,Mio €,"366,0",Mio €,"768,7",Mio €,"-402,7",var. vs anno prec.,"14,0","14,8","5.644,5","5.222,3","422,2","10,8","6,7"
+Latte e derivati,FEBBRAIO 2024,Mio €,"442,8",Mio €,"391,6",Mio €,"51,2",var. vs anno prec.,"10,8","4,1","5.644,5","5.222,3","422,2","10,8","6,7"
+"Cereali, riso e derivati",FEBBRAIO 2024,Mio €,"926,1",Mio €,"622,6",Mio €,"303,5",var. vs anno prec.,"9,1","-10,3","5.644,5","5.222,3","422,2","10,8","6,7"
+Colture industriali,FEBBRAIO 2024,Mio €,"249,9",Mio €,"394,1",Mio €,"-144,2",var. vs anno prec.,"13,1","-4,7","5.644,5","5.222,3","422,2","10,8","6,7"
+Foraggere,FEBBRAIO 2024,Mio €,"26,3",Mio €,"17,1",Mio €,"9,3",var. vs anno prec.,"-10,2","93,6","5.644,5","5.222,3","422,2","10,8","6,7"
+Florovivaismo,FEBBRAIO 2024,Mio €,"165,3",Mio €,"77,8",Mio €,"87,5",var. vs anno prec.,"14,1","17,3","5.644,5","5.222,3","422,2","10,8","6,7"
+Ittico,FEBBRAIO 2024,Mio €,"84,7",Mio €,"578,3",Mio €,"-493,6",var. vs anno prec.,"17,1","4,6","5.644,5","5.222,3","422,2","10,8","6,7"
+Altre bevande,FEBBRAIO 2024,Mio €,"317,7",Mio €,"196,3",Mio €,"121,4",var. vs anno prec.,"7,1","19,9","5.644,5","5.222,3","422,2","10,8","6,7"
+Animali non domestici (Selvaggina),FEBBRAIO 2024,Mio €,"7,3",Mio €,"17,6",Mio €,"-10,3",var. vs anno prec.,"35,4","27,2","5.644,5","5.222,3","422,2","10,8","6,7"
+Prodotti agroalimentari diversi,FEBBRAIO 2024,Mio €,"1.046,0",Mio €,"841,5",Mio €,"204,5",var. vs anno prec.,"9,3","1,3","5.644,5","5.222,3","422,2","10,8","6,7"
+Animali non domestici (Insetti),FEBBRAIO 2024,Mio €,-,Mio €,-,Mio €,-,var. vs anno prec.,-,-,"5.644,5","5.222,3","422,2","10,8","6,7"
+
+Saldo in valore_label,Saldo in valore_ChartSaldi_CategoryGroup_label,Saldo in valore_ChartSaldi_CategoryGroup_Value_Y
+Saldo in valore,Ittico,-493.595055
+Saldo in valore,Animali e carni,-402.66884
+Saldo in valore,Oli e grassi,-157.437496
+Saldo in valore,Colture industriali,-144.198925
+Saldo in valore,Prodotti di origine animale o vegetale non alimentari,-123.612197
+Saldo in valore,Animali non domestici (Selvaggina),-10.296099
+Saldo in valore,Animali non domestici (Insetti),2.1E-05
+Saldo in valore,Foraggere,9.260325
+Saldo in valore,Frutta fresca e trasformata,34.379571
+Saldo in valore,Latte e derivati,51.196191
+Saldo in valore,Florovivaismo,87.499634
+Saldo in valore,Altre bevande,121.380233
+Saldo in valore,Prodotti agroalimentari diversi,204.483532
+Saldo in valore,Ortaggi freschi e trasformati,253.224081
+Saldo in valore,"Cereali, riso e derivati",303.520221
+Saldo in valore,Vino e mosti,565.427898
+
